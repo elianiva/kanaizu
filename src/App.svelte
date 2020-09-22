@@ -4,7 +4,7 @@
 </script>
 
 <style  global>
-  @import "../static/global.css";
+  @import "../static/tailwind.css";
 </style>
 
 <Router {routes} />
