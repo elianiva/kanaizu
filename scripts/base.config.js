@@ -142,4 +142,3 @@ function serviceWorkerConfig(config) {
 
   return rollupConfig
 }
-

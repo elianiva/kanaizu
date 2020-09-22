@@ -15,7 +15,9 @@ export const config = {
   svelteWrapper: svelte => {
     svelte.preprocess = [
       autoPreprocess({
-        postcss: { plugins: [postcssImport(), tailwindcss()] },
+        postcss: {
+          plugins: [postcssImport(), tailwindcss("./tailwind.config.js")]
+        },
         defaults: { style: "postcss" }
       })
     ]
