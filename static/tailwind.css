@@ -1,3 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
 @import "tailwindcss/base";
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
+
+.mplus {
+  font-family: "M PLUS Rounded 1c", sans-serif;
+}
+
+.montserrat {
+  font-family: "Montserrat", sans-serif;
+}
+
+.smooth {
+  transition: all ease-out 0.2s;
+}
+
+.hover\:move-up:hover {
+  transform: translateY(-0.25rem);
+}

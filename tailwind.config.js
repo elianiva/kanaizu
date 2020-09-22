@@ -7,10 +7,13 @@ module.exports = {
   theme: {
     extend: {
       fontSize: {
-        "8xl": "6rem"
-      }
-    }
+        "8xl": "6rem",
+      },
+      margin: {
+        far: "10rem",
+      },
+    },
   },
   variants: {},
-  plugins: []
+  plugins: [],
 }
