@@ -1,5 +1,5 @@
 <button
-  class="py-4 px-8 font-4xl text-2xl rounded-md shadow-lg smooth {styles}"
+  class="font-4xl text-2xl rounded-md shadow-lg smooth {styles}"
   on:click={onclick}>
   {txt}
 </button>

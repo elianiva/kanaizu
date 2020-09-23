@@ -13,13 +13,11 @@
     <Button
       onclick={() => isVisible.update(status => !status)}
       txt="Hiragana"
-      styles="montserrat font-semibold hover:bg-black bg-gray-900 text-white hover:move-up"
-      />
+      styles="py-4 px-8 montserrat font-semibold hover:bg-black bg-gray-900 text-white hover:move-up" />
     <Button
       onclick={() => isVisible.update(status => !status)}
       txt="Katakana"
-      styles="montserrat font-semibold hover:bg-black bg-gray-900 text-white hover:move-up"
-      />
+      styles="py-4 px-8 montserrat font-semibold hover:bg-black bg-gray-900 text-white hover:move-up" />
   </div>
 </div>
 <Footer />
