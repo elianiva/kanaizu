@@ -12,6 +12,9 @@ module.exports = {
       margin: {
         far: "10rem",
       },
+      opacity: {
+        90: "0.9",
+      },
     },
   },
   variants: {},
