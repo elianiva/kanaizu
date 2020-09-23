@@ -1,3 +1,7 @@
+{#if isModalShown}
+  <Modal />
+{/if}
+
 <div class="w-full flex flex-col items-center justify-center">
   <h1
     class="text-8xl font-bold mplus tracking-widest px-8 py-4 bg-gray-900
@@ -7,19 +11,32 @@
   <span class="text-4xl mplus my-8">ひらがな and カタカナ quiz app</span>
   <div class="flex gap-4">
     <Button
-      to="/hiragana"
+      onclick={() => isVisible.update(status => !status)}
       txt="Hiragana"
-      styles="montserrat font-semibold hover:text-blue-600 hover:move-up" />
+      styles="montserrat font-semibold hover:bg-black bg-gray-900 text-white hover:move-up"
+      />
     <Button
-      to="/katakana"
+      onclick={() => isVisible.update(status => !status)}
       txt="Katakana"
-      styles="montserrat font-semibold hover:text-blue-600 hover:move-up" />
+      styles="montserrat font-semibold hover:bg-black bg-gray-900 text-white hover:move-up"
+      />
   </div>
 </div>
+<Footer />
 
 <script>
   import { metatags } from "@sveltech/routify"
   import Button from "./_components/Button.svelte"
+  import Footer from "./_components/Footer.svelte"
+  import Modal from "./_components/Modal.svelte"
+  import { isVisible } from "./_components/stores.js"
+
+  let isModalShown;
+
+  isVisible.subscribe(value => {
+    isModalShown = value
+  })
+
   metatags.title = "Kunaizu | クナイズ"
   metatags.description = "Hiragana and katakana quiz app"
 </script>

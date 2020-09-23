@@ -1,10 +1,11 @@
-<a
-  class="py-4 px-8 font-4xl text-2xl rounded-md shadow-md smooth {styles}"
-  href={$url(to)}>
+<button
+  class="py-4 px-8 font-4xl text-2xl rounded-md shadow-lg smooth {styles}"
+  on:click={onclick}>
   {txt}
-</a>
+</button>
 
 <script>
   import { url } from "@sveltech/routify"
-  export let to, txt, styles
+
+  export let onclick, txt, styles
 </script>
