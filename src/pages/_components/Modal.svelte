@@ -10,15 +10,7 @@
     </h1>
     <form class="flex flex-col gap-4 text-gray-800">
       <Option data={data.level} />
-      <div class="flex items-center justify-between gap-8">
-        <label class="text-xl" for="level">Word limit</label>
-        <input
-          class="py-2 px-2 bg-white rounded-md shadow-md text-lg"
-          type="number"
-          min="10"
-          max="800"
-          placeholder="40" />
-      </div>
+      <Option data={data.limit} type="input" />
       <Option data={data.time} />
       <Option data={data.font} />
       <div class="flex items-center justify-between gap-8">
@@ -45,35 +37,5 @@
   import Option from "./Option.svelte"
   import { isVisible } from "./stores.js"
 
-  const data = {
-    level: {
-      title: "JLPT Level",
-      items: [
-        { value: "n5", text: "N5" },
-        { value: "n4", text: "N4" },
-        { value: "n3", text: "N3" },
-        { value: "n2", text: "N2" },
-        { value: "n1", text: "N1" },
-      ],
-    },
-    time: {
-      title: "Time Limit",
-      items: [
-        { value: "10s", text: "10 secs" },
-        { value: "30s", text: "30 secs" },
-        { value: "1m", text: "1 mins" },
-        { value: "2m", text: "2 mins" },
-        { value: "5m", text: "5 mins" },
-      ],
-    },
-    font: {
-      title: "Font Family",
-      items: [
-        { value: "noto-sans", text: "Noto Sans JP" },
-        { value: "noto-serif", text: "Noto Serif JP" },
-        { value: "mplus-normal", text: "M PLUS 1p" },
-        { value: "mplus", text: "M PLUS Rounded 1c" },
-      ],
-    },
-  }
+  export let data
 </script>
