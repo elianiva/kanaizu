@@ -6,11 +6,12 @@
       type="number"
       min="{data.min}"
       max="{data.max}"
+      bind:value={$selected[name]}
       placeholder="{data.placeholder}" />
   {:else}
     <select
       class="py-2 px-4 bg-white rounded-md shadow-md text-lg"
-      name="level"
+      bind:value={$selected[name]}
       id="level">
       {#each data.items as item}
         <option value={item.value}>{item.text}</option>
@@ -20,6 +21,7 @@
 </div>
 
 <script>
+  import { selected } from "./stores"
   export let data, name
   export let type = 'select'
 </script>

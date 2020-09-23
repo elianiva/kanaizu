@@ -15,7 +15,7 @@
       <Option data={data.font} name="font" />
       <div class="flex items-center justify-between gap-8">
         <span class="text-xl">Font preview</span>
-        <span class="text-2xl">ひらがなとカタカナ</span>
+        <span class="text-2xl {$selected.font}">ひらがなとカタカナ</span>
       </div>
     </form>
     <div class="flex gap-4 mt-4">
@@ -35,7 +35,7 @@
   import { fade, fly } from "svelte/transition"
   import Button from "./Button.svelte"
   import Option from "./Option.svelte"
-  import { isVisible } from "./stores.js"
+  import { isVisible, selected } from "./stores.js"
 
   export let data
 </script>
