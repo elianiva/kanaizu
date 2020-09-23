@@ -1,13 +1,15 @@
-import { writable } from "svelte/store"
+import { writable, readable } from "svelte/store"
 
 export const isVisible = writable(false)
+
 export const selected = writable({
   level: "n5",
   limit: "",
   time: "10s",
   font: "noto-sans",
 })
-export const data = writable({
+
+export const data = readable({
   level: {
     title: "JLPT Level",
     items: [
