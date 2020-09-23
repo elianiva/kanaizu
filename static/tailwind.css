@@ -1,5 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif+JP&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=M+PLUS+1p&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&display=swap");
 
 @import "tailwindcss/base";
 @import "tailwindcss/components";
@@ -7,6 +11,18 @@
 
 .mplus {
   font-family: "M PLUS Rounded 1c", sans-serif;
+}
+
+.mplus-normal {
+  font-family: "M PLUS 1p", sans-serif;
+}
+
+.noto-sans {
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+.noto-serif {
+  font-family: "Noto Serif JP", serif;
 }
 
 .montserrat {
