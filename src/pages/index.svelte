@@ -6,7 +6,7 @@
   <h1
     class="text-8xl font-bold mplus tracking-widest px-8 py-4 bg-gray-900
       text-white rounded-lg mt-4xl mt-far">
-    クナイズ <span class="text-gray-900 bg-gray-100 px-4 rounded-lg">kunaizu</span>
+    カナイズ <span class="text-gray-900 bg-gray-100 px-4 rounded-lg">kanaizu</span>
   </h1>
   <span class="text-4xl mplus my-8">ひらがな and カタカナ quiz app</span>
   <div class="flex gap-4">
@@ -29,12 +29,12 @@
   import Modal from "./_components/Modal.svelte"
   import { isVisible } from "./_components/stores.js"
 
-  let isModalShown;
+  let isModalShown
 
   isVisible.subscribe(value => {
     isModalShown = value
   })
 
-  metatags.title = "Kunaizu | クナイズ"
+  metatags.title = "Kanaizu | カナイズ"
   metatags.description = "Hiragana and katakana quiz app"
 </script>
