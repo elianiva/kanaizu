@@ -1,5 +1,5 @@
 {#if isModalShown}
-  <Modal data={data} />
+  <Modal data={$data} />
 {/if}
 
 <div class="flex-1 flex flex-col items-center justify-center">
@@ -31,6 +31,7 @@
 
   let isModalShown
 
+  isVisible.subscribe(value => isModalShown = value)
 
   metatags.title = "Kanaizu | カナイズ"
   metatags.description = "Hiragana and katakana quiz app"
