@@ -2,7 +2,7 @@
   <Modal />
 {/if}
 
-<div class="w-full flex flex-col items-center justify-center">
+<div class="flex-1 flex flex-col items-center justify-center">
   <h1
     class="text-8xl font-bold mplus tracking-widest px-8 py-4 bg-gray-900
       text-white rounded-lg mt-4xl mt-far">

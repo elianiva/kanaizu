@@ -1,4 +1,4 @@
-<footer class="text-center p-4 border-t-2 mt-16 border-gray-200 montserrat">
+<footer class="text-center p-4 border-t-2 border-gray-200 montserrat">
   <span class="block">
     Powered by <a
       class="font-bold text-orange-500"
