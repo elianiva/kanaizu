@@ -20,7 +20,8 @@
     </form>
     <div class="flex gap-4 mt-4">
       <Button
-        onclick={() => isVisible.update(status => !status)}
+        href={$url('../hiragana')}
+        link={true}
         txt="Start"
         styles="py-2 flex-1 montserrat font-semibold hover:bg-black bg-gray-900 text-white hover:move-up" />
       <Button
@@ -33,6 +34,7 @@
 
 <script>
   import { fade, fly } from "svelte/transition"
+  import { url } from "@sveltech/routify"
   import Button from "./Button.svelte"
   import Option from "./Option.svelte"
   import { isVisible, selected } from "./stores.js"
