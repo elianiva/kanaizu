@@ -9,10 +9,10 @@
       Hiragana Settings
     </h1>
     <form class="flex flex-col gap-4 text-gray-800">
-      <Option data={data.level} />
-      <Option data={data.limit} type="input" />
-      <Option data={data.time} />
-      <Option data={data.font} />
+      <Option data={data.level} name="level"/>
+      <Option data={data.limit} name="limit" type="input" />
+      <Option data={data.time} name="time" />
+      <Option data={data.font} name="font" />
       <div class="flex items-center justify-between gap-8">
         <span class="text-xl">Font preview</span>
         <span class="text-2xl">ひらがなとカタカナ</span>

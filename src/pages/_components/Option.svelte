@@ -20,5 +20,6 @@
 </div>
 
 <script>
-  export let data, type
+  export let data, name
+  export let type = 'select'
 </script>
