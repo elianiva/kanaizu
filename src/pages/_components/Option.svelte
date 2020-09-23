@@ -4,10 +4,10 @@
     <input
       class="py-2 px-2 bg-white rounded-md shadow-md text-lg"
       type="number"
-      min="{data.min}"
-      max="{data.max}"
+      min={data.min}
+      max={data.max}
       bind:value={$selected[name]}
-      placeholder="{data.placeholder}" />
+      placeholder={data.placeholder} />
   {:else}
     <select
       class="py-2 px-4 bg-white rounded-md shadow-md text-lg"
@@ -23,5 +23,5 @@
 <script>
   import { selected } from "./stores"
   export let data, name
-  export let type = 'select'
+  export let type = "select"
 </script>

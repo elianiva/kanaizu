@@ -31,7 +31,7 @@
 
   let isModalShown
 
-  isVisible.subscribe(value => isModalShown = value)
+  isVisible.subscribe(value => (isModalShown = value))
 
   metatags.title = "Kanaizu | カナイズ"
   metatags.description = "Hiragana and katakana quiz app"
