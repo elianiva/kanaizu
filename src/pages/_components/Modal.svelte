@@ -9,7 +9,7 @@
       Hiragana Settings
     </h1>
     <form class="flex flex-col gap-4 text-gray-800">
-      <Option data={data.level} name="level" />
+      <Option data={data.auto} name="auto" type="checkbox" />
       <Option data={data.limit} name="limit" type="input" />
       <Option data={data.time} name="time" />
       <Option data={data.font} name="font" />
