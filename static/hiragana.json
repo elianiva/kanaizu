@@ -1,0 +1,2437 @@
+{
+  "data": [
+    {
+      "hiragana": "ああ",
+      "romaji": "aa"
+    },
+    {
+      "hiragana": "あう",
+      "romaji": "au"
+    },
+    {
+      "hiragana": "あおい",
+      "romaji": "aoi"
+    },
+    {
+      "hiragana": "あかい",
+      "romaji": "akai"
+    },
+    {
+      "hiragana": "あかるい",
+      "romaji": "akarui"
+    },
+    {
+      "hiragana": "あき",
+      "romaji": "aki"
+    },
+    {
+      "hiragana": "あく",
+      "romaji": "aku"
+    },
+    {
+      "hiragana": "ひらく",
+      "romaji": "hiraku"
+    },
+    {
+      "hiragana": "あける",
+      "romaji": "akeru"
+    },
+    {
+      "hiragana": "あげる",
+      "romaji": "ageru"
+    },
+    {
+      "hiragana": "あさ",
+      "romaji": "asa"
+    },
+    {
+      "hiragana": "あさごはん",
+      "romaji": "asagohan"
+    },
+    {
+      "hiragana": "あさって",
+      "romaji": "asatte"
+    },
+    {
+      "hiragana": "みょうごにち",
+      "romaji": "myougonichi"
+    },
+    {
+      "hiragana": "あし",
+      "romaji": "ashi"
+    },
+    {
+      "hiragana": "あした",
+      "romaji": "ashita"
+    },
+    {
+      "hiragana": "あそこ",
+      "romaji": "asoko"
+    },
+    {
+      "hiragana": "あそぶ",
+      "romaji": "asobu"
+    },
+    {
+      "hiragana": "あたたかい",
+      "romaji": "atatakai"
+    },
+    {
+      "hiragana": "あたま",
+      "romaji": "atama"
+    },
+    {
+      "hiragana": "あたらしい",
+      "romaji": "atarashii"
+    },
+    {
+      "hiragana": "あちら",
+      "romaji": "achira"
+    },
+    {
+      "hiragana": "かなた",
+      "romaji": "kanata"
+    },
+    {
+      "hiragana": "あつい",
+      "romaji": "atsui"
+    },
+    {
+      "hiragana": "あと-ご",
+      "romaji": "ato-go"
+    },
+    {
+      "hiragana": "あなた",
+      "romaji": "anata"
+    },
+    {
+      "hiragana": "あに-けい",
+      "romaji": "ani-kei"
+    },
+    {
+      "hiragana": "あね",
+      "romaji": "ane"
+    },
+    {
+      "hiragana": "あの",
+      "romaji": "ano"
+    },
+    {
+      "hiragana": "かれの",
+      "romaji": "kareno"
+    },
+    {
+      "hiragana": "あぱーと",
+      "romaji": "apa-to"
+    },
+    {
+      "hiragana": "あびる",
+      "romaji": "abiru"
+    },
+    {
+      "hiragana": "あぶない",
+      "romaji": "abunai"
+    },
+    {
+      "hiragana": "あまい",
+      "romaji": "amai"
+    },
+    {
+      "hiragana": "あまい-あまり-あまり",
+      "romaji": "amai-amari-amari"
+    },
+    {
+      "hiragana": "あめ-う",
+      "romaji": "ame-u"
+    },
+    {
+      "hiragana": "あらう",
+      "romaji": "arau"
+    },
+    {
+      "hiragana": "ある",
+      "romaji": "aru"
+    },
+    {
+      "hiragana": "あるく",
+      "romaji": "aruku"
+    },
+    {
+      "hiragana": "あれ",
+      "romaji": "are"
+    },
+    {
+      "hiragana": "いい",
+      "romaji": "ii"
+    },
+    {
+      "hiragana": "よい",
+      "romaji": "yoi"
+    },
+    {
+      "hiragana": "いいえ",
+      "romaji": "iie"
+    },
+    {
+      "hiragana": "いう",
+      "romaji": "iu"
+    },
+    {
+      "hiragana": "いえ-か",
+      "romaji": "ie-ka"
+    },
+    {
+      "hiragana": "いく",
+      "romaji": "iku"
+    },
+    {
+      "hiragana": "いくつ",
+      "romaji": "ikutsu"
+    },
+    {
+      "hiragana": "いくら",
+      "romaji": "ikura"
+    },
+    {
+      "hiragana": "いけ-ち",
+      "romaji": "ike-chi"
+    },
+    {
+      "hiragana": "いしゃ",
+      "romaji": "isha"
+    },
+    {
+      "hiragana": "いす",
+      "romaji": "isu"
+    },
+    {
+      "hiragana": "いそがしい",
+      "romaji": "isogashii"
+    },
+    {
+      "hiragana": "いたい",
+      "romaji": "itai"
+    },
+    {
+      "hiragana": "いち",
+      "romaji": "ichi"
+    },
+    {
+      "hiragana": "いちにち",
+      "romaji": "ichinichi"
+    },
+    {
+      "hiragana": "いちばん",
+      "romaji": "ichiban"
+    },
+    {
+      "hiragana": "いつ",
+      "romaji": "itsu"
+    },
+    {
+      "hiragana": "いつか",
+      "romaji": "itsuka"
+    },
+    {
+      "hiragana": "ごにち",
+      "romaji": "gonichi"
+    },
+    {
+      "hiragana": "いっしょに",
+      "romaji": "isshoni"
+    },
+    {
+      "hiragana": "いっしょに-いつつ",
+      "romaji": "isshoni-itsutsu"
+    },
+    {
+      "hiragana": "いつつ",
+      "romaji": "itsutsu"
+    },
+    {
+      "hiragana": "いつも",
+      "romaji": "itsumo"
+    },
+    {
+      "hiragana": "いま",
+      "romaji": "ima"
+    },
+    {
+      "hiragana": "こん",
+      "romaji": "kon"
+    },
+    {
+      "hiragana": "いみ",
+      "romaji": "imi"
+    },
+    {
+      "hiragana": "いもうと",
+      "romaji": "imouto"
+    },
+    {
+      "hiragana": "いや",
+      "romaji": "iya"
+    },
+    {
+      "hiragana": "いりぐち",
+      "romaji": "iriguchi"
+    },
+    {
+      "hiragana": "いる",
+      "romaji": "iru"
+    },
+    {
+      "hiragana": "いれる",
+      "romaji": "ireru"
+    },
+    {
+      "hiragana": "いろ-しょく",
+      "romaji": "iro-shoku"
+    },
+    {
+      "hiragana": "いろいろ",
+      "romaji": "iroiro"
+    },
+    {
+      "hiragana": "うえ-じょう",
+      "romaji": "ue-jou"
+    },
+    {
+      "hiragana": "うしろ-ご",
+      "romaji": "ushiro-go"
+    },
+    {
+      "hiragana": "うすい",
+      "romaji": "usui"
+    },
+    {
+      "hiragana": "うた-か",
+      "romaji": "uta-ka"
+    },
+    {
+      "hiragana": "うたう",
+      "romaji": "utau"
+    },
+    {
+      "hiragana": "うち",
+      "romaji": "uchi"
+    },
+    {
+      "hiragana": "うまれる",
+      "romaji": "umareru"
+    },
+    {
+      "hiragana": "うみ",
+      "romaji": "umi"
+    },
+    {
+      "hiragana": "うる",
+      "romaji": "uru"
+    },
+    {
+      "hiragana": "うわぎ",
+      "romaji": "uwagi"
+    },
+    {
+      "hiragana": "え-え",
+      "romaji": "e-e"
+    },
+    {
+      "hiragana": "えいが",
+      "romaji": "eiga"
+    },
+    {
+      "hiragana": "えいがかん",
+      "romaji": "eigakan"
+    },
+    {
+      "hiragana": "えいご",
+      "romaji": "eigo"
+    },
+    {
+      "hiragana": "ええ",
+      "romaji": "ee"
+    },
+    {
+      "hiragana": "えき-えき",
+      "romaji": "eki-eki"
+    },
+    {
+      "hiragana": "えれべーたー-えん",
+      "romaji": "erebe-ta--en"
+    },
+    {
+      "hiragana": "えん",
+      "romaji": "en"
+    },
+    {
+      "hiragana": "えんぴつ",
+      "romaji": "enpitsu"
+    },
+    {
+      "hiragana": "おいしい",
+      "romaji": "oishii"
+    },
+    {
+      "hiragana": "おおきい",
+      "romaji": "ookii"
+    },
+    {
+      "hiragana": "おおぜい",
+      "romaji": "oozei"
+    },
+    {
+      "hiragana": "たいせい",
+      "romaji": "taisei"
+    },
+    {
+      "hiragana": "おかあさん",
+      "romaji": "okaasan"
+    },
+    {
+      "hiragana": "おかし",
+      "romaji": "okashi"
+    },
+    {
+      "hiragana": "おかね",
+      "romaji": "okane"
+    },
+    {
+      "hiragana": "おきる",
+      "romaji": "okiru"
+    },
+    {
+      "hiragana": "おく",
+      "romaji": "oku"
+    },
+    {
+      "hiragana": "おくさん",
+      "romaji": "okusan"
+    },
+    {
+      "hiragana": "おさけ",
+      "romaji": "osake"
+    },
+    {
+      "hiragana": "おさら",
+      "romaji": "osara"
+    },
+    {
+      "hiragana": "おじさん",
+      "romaji": "ojisan"
+    },
+    {
+      "hiragana": "おじいさん",
+      "romaji": "ojiisan"
+    },
+    {
+      "hiragana": "おしえる",
+      "romaji": "oshieru"
+    },
+    {
+      "hiragana": "おす",
+      "romaji": "osu"
+    },
+    {
+      "hiragana": "おそい",
+      "romaji": "osoi"
+    },
+    {
+      "hiragana": "おちゃ",
+      "romaji": "ocha"
+    },
+    {
+      "hiragana": "おてあらい",
+      "romaji": "otearai"
+    },
+    {
+      "hiragana": "おとうさん",
+      "romaji": "otousan"
+    },
+    {
+      "hiragana": "おとうと",
+      "romaji": "otouto"
+    },
+    {
+      "hiragana": "おとこ",
+      "romaji": "otoko"
+    },
+    {
+      "hiragana": "おとこのこ",
+      "romaji": "otokonoko"
+    },
+    {
+      "hiragana": "おととい",
+      "romaji": "ototoi"
+    },
+    {
+      "hiragana": "おととし",
+      "romaji": "ototoshi"
+    },
+    {
+      "hiragana": "おとな",
+      "romaji": "otona"
+    },
+    {
+      "hiragana": "おなか",
+      "romaji": "onaka"
+    },
+    {
+      "hiragana": "おなじ",
+      "romaji": "onaji"
+    },
+    {
+      "hiragana": "おにいさん",
+      "romaji": "oniisan"
+    },
+    {
+      "hiragana": "おねえさん",
+      "romaji": "oneesan"
+    },
+    {
+      "hiragana": "おばさん",
+      "romaji": "obasan"
+    },
+    {
+      "hiragana": "おばあさん",
+      "romaji": "obaasan"
+    },
+    {
+      "hiragana": "おべんとう",
+      "romaji": "obentou"
+    },
+    {
+      "hiragana": "おぼえる",
+      "romaji": "oboeru"
+    },
+    {
+      "hiragana": "おもい",
+      "romaji": "omoi"
+    },
+    {
+      "hiragana": "おもしろい",
+      "romaji": "omoshiroi"
+    },
+    {
+      "hiragana": "およぐ",
+      "romaji": "oyogu"
+    },
+    {
+      "hiragana": "おりる",
+      "romaji": "oriru"
+    },
+    {
+      "hiragana": "おわる",
+      "romaji": "owaru"
+    },
+    {
+      "hiragana": "おんがく",
+      "romaji": "ongaku"
+    },
+    {
+      "hiragana": "おんな",
+      "romaji": "onna"
+    },
+    {
+      "hiragana": "おんなのこ",
+      "romaji": "onnanoko"
+    },
+    {
+      "hiragana": "かい-かい",
+      "romaji": "kai-kai"
+    },
+    {
+      "hiragana": "がいこく",
+      "romaji": "gaikoku"
+    },
+    {
+      "hiragana": "がいこくじん",
+      "romaji": "gaikokujin"
+    },
+    {
+      "hiragana": "かいしゃ",
+      "romaji": "kaisha"
+    },
+    {
+      "hiragana": "かいだん",
+      "romaji": "kaidan"
+    },
+    {
+      "hiragana": "かいもの",
+      "romaji": "kaimono"
+    },
+    {
+      "hiragana": "かう",
+      "romaji": "kau"
+    },
+    {
+      "hiragana": "かえす",
+      "romaji": "kaesu"
+    },
+    {
+      "hiragana": "かえる",
+      "romaji": "kaeru"
+    },
+    {
+      "hiragana": "かお-がお",
+      "romaji": "kao-gao"
+    },
+    {
+      "hiragana": "かかる（じかんがかかる）",
+      "romaji": "kakaru(jikangakakaru)"
+    },
+    {
+      "hiragana": "かぎ",
+      "romaji": "kagi"
+    },
+    {
+      "hiragana": "かく",
+      "romaji": "kaku"
+    },
+    {
+      "hiragana": "がくせい",
+      "romaji": "gakusei"
+    },
+    {
+      "hiragana": "~かげつ",
+      "romaji": "~kagetsu"
+    },
+    {
+      "hiragana": "かける（めがねをかける）",
+      "romaji": "kakeru(meganewokakeru)"
+    },
+    {
+      "hiragana": "かける（でんわをかける）",
+      "romaji": "kakeru(denwawokakeru)"
+    },
+    {
+      "hiragana": "かさ",
+      "romaji": "kasa"
+    },
+    {
+      "hiragana": "かす",
+      "romaji": "kasu"
+    },
+    {
+      "hiragana": "かぜ-ふう",
+      "romaji": "kaze-fuu "
+    },
+    {
+      "hiragana": "かぞく",
+      "romaji": "kazoku"
+    },
+    {
+      "hiragana": "かぞく-かた-（このほう）-かたかな",
+      "romaji": "kazoku-kata-(konohou)-katakana"
+    },
+    {
+      "hiragana": "かたかな",
+      "romaji": "katakana"
+    },
+    {
+      "hiragana": "~がつ",
+      "romaji": "~gatsu"
+    },
+    {
+      "hiragana": "~つき-がっこう",
+      "romaji": "~tsuki-gakkou"
+    },
+    {
+      "hiragana": "がっこう",
+      "romaji": "gakkou"
+    },
+    {
+      "hiragana": "かど-かく",
+      "romaji": "kado-kaku"
+    },
+    {
+      "hiragana": "かない",
+      "romaji": "kanai"
+    },
+    {
+      "hiragana": "かばん",
+      "romaji": "kaban"
+    },
+    {
+      "hiragana": "かびん",
+      "romaji": "kabin"
+    },
+    {
+      "hiragana": "かぶる",
+      "romaji": "kaburu"
+    },
+    {
+      "hiragana": "かみ-し",
+      "romaji": "kami-shi"
+    },
+    {
+      "hiragana": "かめら",
+      "romaji": "kamera"
+    },
+    {
+      "hiragana": "かようび",
+      "romaji": "kayoubi"
+    },
+    {
+      "hiragana": "からい",
+      "romaji": "karai"
+    },
+    {
+      "hiragana": "つらい",
+      "romaji": "tsurai"
+    },
+    {
+      "hiragana": "からだ-たい",
+      "romaji": "karada-tai"
+    },
+    {
+      "hiragana": "かりる",
+      "romaji": "kariru"
+    },
+    {
+      "hiragana": "~がる",
+      "romaji": "~garu"
+    },
+    {
+      "hiragana": "かるい",
+      "romaji": "karui"
+    },
+    {
+      "hiragana": "かれんだー",
+      "romaji": "karenda"
+    },
+    {
+      "hiragana": "かわ-がわ",
+      "romaji": "kawa-gawa"
+    },
+    {
+      "hiragana": "かわ",
+      "romaji": "kawa"
+    },
+    {
+      "hiragana": "~がわ",
+      "romaji": "~gawa"
+    },
+    {
+      "hiragana": "かわいい",
+      "romaji": "kawaii"
+    },
+    {
+      "hiragana": "かんじ",
+      "romaji": "kanji"
+    },
+    {
+      "hiragana": "き",
+      "romaji": "ki"
+    },
+    {
+      "hiragana": "きいろい",
+      "romaji": "kiiroi"
+    },
+    {
+      "hiragana": "きえる",
+      "romaji": "kieru"
+    },
+    {
+      "hiragana": "きく",
+      "romaji": "kiku"
+    },
+    {
+      "hiragana": "きた",
+      "romaji": "kita"
+    },
+    {
+      "hiragana": "ぎたー",
+      "romaji": "gita-"
+    },
+    {
+      "hiragana": "きたない",
+      "romaji": "kitanai"
+    },
+    {
+      "hiragana": "きたない-きっさてん",
+      "romaji": "kitanai-kissaten"
+    },
+    {
+      "hiragana": "きっさてん-きって",
+      "romaji": "kissaten-kitte"
+    },
+    {
+      "hiragana": "きって",
+      "romaji": "kitte"
+    },
+    {
+      "hiragana": "きっぷ",
+      "romaji": "kippu"
+    },
+    {
+      "hiragana": "きのう",
+      "romaji": "kinou"
+    },
+    {
+      "hiragana": "きゅう",
+      "romaji": "kyuu"
+    },
+    {
+      "hiragana": "ぎゅうにく",
+      "romaji": "gyuuniku"
+    },
+    {
+      "hiragana": "きょう",
+      "romaji": "kyou"
+    },
+    {
+      "hiragana": "きょうしつ",
+      "romaji": "kyoushitsu"
+    },
+    {
+      "hiragana": "きょうだい",
+      "romaji": "kyoudai"
+    },
+    {
+      "hiragana": "きょねん",
+      "romaji": "kyonen"
+    },
+    {
+      "hiragana": "きらい-ぎらい",
+      "romaji": "kirai-girai"
+    },
+    {
+      "hiragana": "きる",
+      "romaji": "kiru"
+    },
+    {
+      "hiragana": "きれい",
+      "romaji": "kirei"
+    },
+    {
+      "hiragana": "きろぐらむ",
+      "romaji": "kiroguramu"
+    },
+    {
+      "hiragana": "きろめーとる",
+      "romaji": "kirome-toru"
+    },
+    {
+      "hiragana": "ぎんこう",
+      "romaji": "ginkou"
+    },
+    {
+      "hiragana": "きんようび",
+      "romaji": "kin'youbi"
+    },
+    {
+      "hiragana": "きんようび-く-こう",
+      "romaji": "kin'youbi-ku-kou"
+    },
+    {
+      "hiragana": "くすり-やく",
+      "romaji": "kusuri-yaku"
+    },
+    {
+      "hiragana": "ください",
+      "romaji": "kudasai"
+    },
+    {
+      "hiragana": "くだもの",
+      "romaji": "kudamono"
+    },
+    {
+      "hiragana": "くち-ぐち",
+      "romaji": "kuchi-guchi"
+    },
+    {
+      "hiragana": "くつ",
+      "romaji": "kutsu"
+    },
+    {
+      "hiragana": "くつした",
+      "romaji": "kutsushita"
+    },
+    {
+      "hiragana": "くに-こく",
+      "romaji": "kuni-koku"
+    },
+    {
+      "hiragana": "くもる",
+      "romaji": "kumoru"
+    },
+    {
+      "hiragana": "くらい",
+      "romaji": "kurai"
+    },
+    {
+      "hiragana": "~くらい",
+      "romaji": "~kurai"
+    },
+    {
+      "hiragana": "~ぐらい",
+      "romaji": "~gurai"
+    },
+    {
+      "hiragana": "くらす",
+      "romaji": "kurasu"
+    },
+    {
+      "hiragana": "ぐらむ",
+      "romaji": "guramu"
+    },
+    {
+      "hiragana": "くる",
+      "romaji": "kuru"
+    },
+    {
+      "hiragana": "くるま-しゃ",
+      "romaji": "kuruma-sha"
+    },
+    {
+      "hiragana": "くろい",
+      "romaji": "kuroi"
+    },
+    {
+      "hiragana": "けさ",
+      "romaji": "kesa"
+    },
+    {
+      "hiragana": "けす",
+      "romaji": "kesu"
+    },
+    {
+      "hiragana": "けっこう",
+      "romaji": "kekkou"
+    },
+    {
+      "hiragana": "けっこん",
+      "romaji": "kekkon"
+    },
+    {
+      "hiragana": "けっこん-げつようび",
+      "romaji": "kekkon-getsuyoubi"
+    },
+    {
+      "hiragana": "げつようび-げんかん",
+      "romaji": "getsuyoubi-genkan"
+    },
+    {
+      "hiragana": "げんかん",
+      "romaji": "genkan"
+    },
+    {
+      "hiragana": "げんき",
+      "romaji": "genki"
+    },
+    {
+      "hiragana": "~こ",
+      "romaji": "~ko"
+    },
+    {
+      "hiragana": "ご",
+      "romaji": "go"
+    },
+    {
+      "hiragana": "~ご",
+      "romaji": "~go"
+    },
+    {
+      "hiragana": "こうえん",
+      "romaji": "kouen"
+    },
+    {
+      "hiragana": "こうばん",
+      "romaji": "kouban"
+    },
+    {
+      "hiragana": "こえ-ごえ",
+      "romaji": "koe-goe"
+    },
+    {
+      "hiragana": "こーと",
+      "romaji": "ko-to"
+    },
+    {
+      "hiragana": "ここ（しじことば）",
+      "romaji": "koko(shijikotoba)"
+    },
+    {
+      "hiragana": "ごご",
+      "romaji": "gogo"
+    },
+    {
+      "hiragana": "ここのか",
+      "romaji": "kokonoka"
+    },
+    {
+      "hiragana": "きゅうにち",
+      "romaji": "kyuunichi"
+    },
+    {
+      "hiragana": "ここのつ",
+      "romaji": "kokonotsu"
+    },
+    {
+      "hiragana": "ごしゅじん",
+      "romaji": "goshujin"
+    },
+    {
+      "hiragana": "ごぜん",
+      "romaji": "gozen"
+    },
+    {
+      "hiragana": "こたえる",
+      "romaji": "kotaeru"
+    },
+    {
+      "hiragana": "こちら",
+      "romaji": "kochira"
+    },
+    {
+      "hiragana": "こっぷ",
+      "romaji": "koppu"
+    },
+    {
+      "hiragana": "ことし",
+      "romaji": "kotoshi"
+    },
+    {
+      "hiragana": "ことば",
+      "romaji": "kotoba"
+    },
+    {
+      "hiragana": "こども",
+      "romaji": "kodomo"
+    },
+    {
+      "hiragana": "この",
+      "romaji": "kono"
+    },
+    {
+      "hiragana": "ごはん",
+      "romaji": "gohan"
+    },
+    {
+      "hiragana": "こまる",
+      "romaji": "komaru"
+    },
+    {
+      "hiragana": "これ",
+      "romaji": "kore"
+    },
+    {
+      "hiragana": "~ころ",
+      "romaji": "~koro"
+    },
+    {
+      "hiragana": "~ごろ",
+      "romaji": "~goro"
+    },
+    {
+      "hiragana": "こんげつ",
+      "romaji": "kongetsu"
+    },
+    {
+      "hiragana": "こんしゅう",
+      "romaji": "konshuu"
+    },
+    {
+      "hiragana": "こんな",
+      "romaji": "konna"
+    },
+    {
+      "hiragana": "こんばん",
+      "romaji": "konban"
+    },
+    {
+      "hiragana": "さあ（かんどうことば）",
+      "romaji": "saa(kandoukotoba)"
+    },
+    {
+      "hiragana": "~さい",
+      "romaji": "~sai"
+    },
+    {
+      "hiragana": "~とし",
+      "romaji": "~toshi"
+    },
+    {
+      "hiragana": "さかな-ぎょ",
+      "romaji": "sakana-gyo"
+    },
+    {
+      "hiragana": "さき-さき",
+      "romaji": "saki-saki"
+    },
+    {
+      "hiragana": "さく",
+      "romaji": "saku"
+    },
+    {
+      "hiragana": "さくぶん",
+      "romaji": "sakubun"
+    },
+    {
+      "hiragana": "さす（かさをさす）",
+      "romaji": "sasu(kasawosasu)"
+    },
+    {
+      "hiragana": "~さつ",
+      "romaji": "~satsu"
+    },
+    {
+      "hiragana": "ざっし",
+      "romaji": "zasshi"
+    },
+    {
+      "hiragana": "さとう",
+      "romaji": "satou"
+    },
+    {
+      "hiragana": "さむい",
+      "romaji": "samui"
+    },
+    {
+      "hiragana": "さらいねん",
+      "romaji": "sarainen"
+    },
+    {
+      "hiragana": "~さん",
+      "romaji": "~san"
+    },
+    {
+      "hiragana": "さん",
+      "romaji": "san"
+    },
+    {
+      "hiragana": "さんぽ",
+      "romaji": "sanpo"
+    },
+    {
+      "hiragana": "さんぽ-し",
+      "romaji": "sanpo-shi"
+    },
+    {
+      "hiragana": "よん-しお",
+      "romaji": "yon-shio"
+    },
+    {
+      "hiragana": "しお",
+      "romaji": "shio"
+    },
+    {
+      "hiragana": "しかし",
+      "romaji": "shikashi"
+    },
+    {
+      "hiragana": "じかん",
+      "romaji": "jikan"
+    },
+    {
+      "hiragana": "~じかん",
+      "romaji": "~jikan"
+    },
+    {
+      "hiragana": "~じかん-しごと",
+      "romaji": "~jikan-shigoto"
+    },
+    {
+      "hiragana": "しごと",
+      "romaji": "shigoto"
+    },
+    {
+      "hiragana": "じしょ",
+      "romaji": "jisho"
+    },
+    {
+      "hiragana": "しずか",
+      "romaji": "shizuka"
+    },
+    {
+      "hiragana": "しずか-した-か-しち",
+      "romaji": "shizuka-shita-ka-shichi"
+    },
+    {
+      "hiragana": "なな-しつもん",
+      "romaji": "nana-shitsumon"
+    },
+    {
+      "hiragana": "しつもん",
+      "romaji": "shitsumon"
+    },
+    {
+      "hiragana": "じてんしゃ",
+      "romaji": "jitensha"
+    },
+    {
+      "hiragana": "じどうしゃ",
+      "romaji": "jidousha"
+    },
+    {
+      "hiragana": "じどうしゃ-しぬ",
+      "romaji": "jidousha-shinu"
+    },
+    {
+      "hiragana": "しぬ",
+      "romaji": "shinu"
+    },
+    {
+      "hiragana": "じびき",
+      "romaji": "jibiki"
+    },
+    {
+      "hiragana": "じぶん",
+      "romaji": "jibun"
+    },
+    {
+      "hiragana": "じぶん-しまる",
+      "romaji": "jibun-shimaru"
+    },
+    {
+      "hiragana": "しまる",
+      "romaji": "shimaru"
+    },
+    {
+      "hiragana": "しめる",
+      "romaji": "shimeru"
+    },
+    {
+      "hiragana": "じゃ（かんどうことば）",
+      "romaji": "ja(kandoukotoba)"
+    },
+    {
+      "hiragana": "じゃあ（かんどうことば）",
+      "romaji": "jaa(kandoukotoba)"
+    },
+    {
+      "hiragana": "しゃしん",
+      "romaji": "shashin"
+    },
+    {
+      "hiragana": "しゃつ-じゅう",
+      "romaji": "shatsu-juu"
+    },
+    {
+      "hiragana": "じゅう",
+      "romaji": "juu"
+    },
+    {
+      "hiragana": "~しゅうかん",
+      "romaji": "~shuukan"
+    },
+    {
+      "hiragana": "じゅぎょう",
+      "romaji": "jugyou"
+    },
+    {
+      "hiragana": "しゅくだい",
+      "romaji": "shukudai"
+    },
+    {
+      "hiragana": "じょうず",
+      "romaji": "jouzu"
+    },
+    {
+      "hiragana": "じょうぶ",
+      "romaji": "joubu"
+    },
+    {
+      "hiragana": "しょうゆ",
+      "romaji": "shouyu"
+    },
+    {
+      "hiragana": "しょうゆ-しょくどう",
+      "romaji": "shouyu-shokudou"
+    },
+    {
+      "hiragana": "しょくどう",
+      "romaji": "shokudou"
+    },
+    {
+      "hiragana": "しる",
+      "romaji": "shiru"
+    },
+    {
+      "hiragana": "しろい",
+      "romaji": "shiroi"
+    },
+    {
+      "hiragana": "~じん",
+      "romaji": "~jin"
+    },
+    {
+      "hiragana": "しんぶん",
+      "romaji": "shinbun"
+    },
+    {
+      "hiragana": "すいようび",
+      "romaji": "suiyoubi"
+    },
+    {
+      "hiragana": "すう",
+      "romaji": "suu"
+    },
+    {
+      "hiragana": "すかーと",
+      "romaji": "suka-to"
+    },
+    {
+      "hiragana": "すき-すき",
+      "romaji": "suki-suki"
+    },
+    {
+      "hiragana": "~すぎ",
+      "romaji": "~sugi"
+    },
+    {
+      "hiragana": "すぐに",
+      "romaji": "suguni"
+    },
+    {
+      "hiragana": "すこし",
+      "romaji": "sukoshi"
+    },
+    {
+      "hiragana": "すずしい",
+      "romaji": "suzushii"
+    },
+    {
+      "hiragana": "~ずつ",
+      "romaji": "~zutsu"
+    },
+    {
+      "hiragana": "すとーぶ",
+      "romaji": "suto-bu"
+    },
+    {
+      "hiragana": "すぷーん",
+      "romaji": "supu-n"
+    },
+    {
+      "hiragana": "すぽーつ",
+      "romaji": "supo-tsu"
+    },
+    {
+      "hiragana": "ずぼん",
+      "romaji": "zubon"
+    },
+    {
+      "hiragana": "すむ",
+      "romaji": "sumu"
+    },
+    {
+      "hiragana": "すりっぱ-する",
+      "romaji": "surippa-suru"
+    },
+    {
+      "hiragana": "すわる",
+      "romaji": "suwaru"
+    },
+    {
+      "hiragana": "すわる-せい",
+      "romaji": "suwaru-sei"
+    },
+    {
+      "hiragana": "せ-せいと",
+      "romaji": "se-seito"
+    },
+    {
+      "hiragana": "せいと",
+      "romaji": "seito"
+    },
+    {
+      "hiragana": "せーたー",
+      "romaji": "se-ta-"
+    },
+    {
+      "hiragana": "せっけん",
+      "romaji": "sekken"
+    },
+    {
+      "hiragana": "せびろ",
+      "romaji": "sebiro"
+    },
+    {
+      "hiragana": "せまい",
+      "romaji": "semai"
+    },
+    {
+      "hiragana": "ぜろ-せん",
+      "romaji": "zero-sen"
+    },
+    {
+      "hiragana": "せん",
+      "romaji": "sen"
+    },
+    {
+      "hiragana": "せんげつ",
+      "romaji": "sengetsu"
+    },
+    {
+      "hiragana": "せんしゅう",
+      "romaji": "senshuu"
+    },
+    {
+      "hiragana": "せんせい",
+      "romaji": "sensei"
+    },
+    {
+      "hiragana": "せんせい-せんたく",
+      "romaji": "sensei-sentaku"
+    },
+    {
+      "hiragana": "せんたく",
+      "romaji": "sentaku"
+    },
+    {
+      "hiragana": "ぜんぶ",
+      "romaji": "zenbu"
+    },
+    {
+      "hiragana": "ぜんぶ-そう（そうです）-そうじ",
+      "romaji": "zenbu-sou(soudesu)-souji"
+    },
+    {
+      "hiragana": "そうじ",
+      "romaji": "souji"
+    },
+    {
+      "hiragana": "そうして",
+      "romaji": "soushite"
+    },
+    {
+      "hiragana": "そして",
+      "romaji": "soshite"
+    },
+    {
+      "hiragana": "そこ（しじことば）",
+      "romaji": "soko(shijikotoba)"
+    },
+    {
+      "hiragana": "そちら-そと-がい",
+      "romaji": "sochira-soto-gai"
+    },
+    {
+      "hiragana": "その（れんたいし）",
+      "romaji": "sono(rentaishi)"
+    },
+    {
+      "hiragana": "そば（まどのそば）",
+      "romaji": "soba(madonosoba)"
+    },
+    {
+      "hiragana": "そら",
+      "romaji": "sora"
+    },
+    {
+      "hiragana": "それ（しじことば）",
+      "romaji": "sore(shijikotoba)"
+    },
+    {
+      "hiragana": "それから",
+      "romaji": "sorekara"
+    },
+    {
+      "hiragana": "それでは",
+      "romaji": "soredeha"
+    },
+    {
+      "hiragana": "~だい",
+      "romaji": "~dai"
+    },
+    {
+      "hiragana": "だいがく",
+      "romaji": "daigaku"
+    },
+    {
+      "hiragana": "たいしかん",
+      "romaji": "taishikan"
+    },
+    {
+      "hiragana": "だいじょうぶ",
+      "romaji": "daijoubu"
+    },
+    {
+      "hiragana": "だいすき",
+      "romaji": "daisuki"
+    },
+    {
+      "hiragana": "たいせつ",
+      "romaji": "taisetsu"
+    },
+    {
+      "hiragana": "たいてい",
+      "romaji": "taitei"
+    },
+    {
+      "hiragana": "だいどころ",
+      "romaji": "daidokoro"
+    },
+    {
+      "hiragana": "たいへん",
+      "romaji": "taihen"
+    },
+    {
+      "hiragana": "たかい",
+      "romaji": "takai"
+    },
+    {
+      "hiragana": "たくさん",
+      "romaji": "takusan"
+    },
+    {
+      "hiragana": "たくしー",
+      "romaji": "takushi-"
+    },
+    {
+      "hiragana": "だす",
+      "romaji": "dasu"
+    },
+    {
+      "hiragana": "~たち",
+      "romaji": "~tachi"
+    },
+    {
+      "hiragana": "たつ",
+      "romaji": "tatsu"
+    },
+    {
+      "hiragana": "たつ-たてもの",
+      "romaji": "tatsu-tatemono"
+    },
+    {
+      "hiragana": "たてもの",
+      "romaji": "tatemono"
+    },
+    {
+      "hiragana": "たのしい",
+      "romaji": "tanoshii"
+    },
+    {
+      "hiragana": "たのむ",
+      "romaji": "tanomu"
+    },
+    {
+      "hiragana": "たばこ",
+      "romaji": "tabako"
+    },
+    {
+      "hiragana": "たぶん",
+      "romaji": "tabun"
+    },
+    {
+      "hiragana": "たべもの",
+      "romaji": "tabemono"
+    },
+    {
+      "hiragana": "たべる",
+      "romaji": "taberu"
+    },
+    {
+      "hiragana": "たまご",
+      "romaji": "tamago"
+    },
+    {
+      "hiragana": "だれ",
+      "romaji": "dare"
+    },
+    {
+      "hiragana": "たんじょうび",
+      "romaji": "tanjoubi"
+    },
+    {
+      "hiragana": "だんだん",
+      "romaji": "dandan"
+    },
+    {
+      "hiragana": "ちいさい",
+      "romaji": "chiisai"
+    },
+    {
+      "hiragana": "ちかい",
+      "romaji": "chikai"
+    },
+    {
+      "hiragana": "ちがう",
+      "romaji": "chigau"
+    },
+    {
+      "hiragana": "ちかく",
+      "romaji": "chikaku"
+    },
+    {
+      "hiragana": "ちかてつ",
+      "romaji": "chikatetsu"
+    },
+    {
+      "hiragana": "ちず",
+      "romaji": "chizu"
+    },
+    {
+      "hiragana": "ちち",
+      "romaji": "chichi"
+    },
+    {
+      "hiragana": "ちゃいろ",
+      "romaji": "chairo"
+    },
+    {
+      "hiragana": "ちゃわん",
+      "romaji": "chawan"
+    },
+    {
+      "hiragana": "~ちゅう",
+      "romaji": "~chuu"
+    },
+    {
+      "hiragana": "ちょうど",
+      "romaji": "choudo"
+    },
+    {
+      "hiragana": "ちょっと",
+      "romaji": "chotto"
+    },
+    {
+      "hiragana": "ついたち",
+      "romaji": "tsuitachi"
+    },
+    {
+      "hiragana": "つかう",
+      "romaji": "tsukau"
+    },
+    {
+      "hiragana": "つかれる",
+      "romaji": "tsukareru"
+    },
+    {
+      "hiragana": "つぎ-じ",
+      "romaji": "tsugi-ji"
+    },
+    {
+      "hiragana": "つく",
+      "romaji": "tsuku"
+    },
+    {
+      "hiragana": "つくえ",
+      "romaji": "tsukue"
+    },
+    {
+      "hiragana": "つくる",
+      "romaji": "tsukuru"
+    },
+    {
+      "hiragana": "つける",
+      "romaji": "tsukeru"
+    },
+    {
+      "hiragana": "つとめる",
+      "romaji": "tsutomeru"
+    },
+    {
+      "hiragana": "つまらない",
+      "romaji": "tsumaranai"
+    },
+    {
+      "hiragana": "つめたい",
+      "romaji": "tsumetai"
+    },
+    {
+      "hiragana": "つよい",
+      "romaji": "tsuyoi"
+    },
+    {
+      "hiragana": "て-しゅ",
+      "romaji": "te-shu"
+    },
+    {
+      "hiragana": "てーぷ",
+      "romaji": "te-pu"
+    },
+    {
+      "hiragana": "てーぷれこーだー",
+      "romaji": "te-pureko-da-"
+    },
+    {
+      "hiragana": "てーぶる",
+      "romaji": "te-buru"
+    },
+    {
+      "hiragana": "でかける",
+      "romaji": "dekakeru"
+    },
+    {
+      "hiragana": "てがみ",
+      "romaji": "tegami"
+    },
+    {
+      "hiragana": "できる（えいごができる）",
+      "romaji": "dekiru(eigogadekiru)"
+    },
+    {
+      "hiragana": "でぐち",
+      "romaji": "deguchi"
+    },
+    {
+      "hiragana": "てすと",
+      "romaji": "tesuto"
+    },
+    {
+      "hiragana": "では（かんどうことば）",
+      "romaji": "deha(kandoukotoba)"
+    },
+    {
+      "hiragana": "でぱーと",
+      "romaji": "depa-to"
+    },
+    {
+      "hiragana": "でも",
+      "romaji": "demo"
+    },
+    {
+      "hiragana": "でる",
+      "romaji": "deru"
+    },
+    {
+      "hiragana": "てれび",
+      "romaji": "terebi"
+    },
+    {
+      "hiragana": "てんき",
+      "romaji": "tenki"
+    },
+    {
+      "hiragana": "でんき",
+      "romaji": "denki"
+    },
+    {
+      "hiragana": "でんしゃ",
+      "romaji": "densha"
+    },
+    {
+      "hiragana": "でんわ",
+      "romaji": "denwa"
+    },
+    {
+      "hiragana": "と",
+      "romaji": "to"
+    },
+    {
+      "hiragana": "~ど",
+      "romaji": "~do"
+    },
+    {
+      "hiragana": "どあ",
+      "romaji": "doa"
+    },
+    {
+      "hiragana": "といれ",
+      "romaji": "toire"
+    },
+    {
+      "hiragana": "どう（ふくし）",
+      "romaji": "dou(fukushi)"
+    },
+    {
+      "hiragana": "どうして",
+      "romaji": "doushite"
+    },
+    {
+      "hiragana": "どうぞ",
+      "romaji": "douzo"
+    },
+    {
+      "hiragana": "どうぶつ",
+      "romaji": "doubutsu"
+    },
+    {
+      "hiragana": "どうも",
+      "romaji": "doumo"
+    },
+    {
+      "hiragana": "とお",
+      "romaji": "too"
+    },
+    {
+      "hiragana": "とおい",
+      "romaji": "tooi"
+    },
+    {
+      "hiragana": "とおか",
+      "romaji": "tooka"
+    },
+    {
+      "hiragana": "じゅうにち",
+      "romaji": "juunichi"
+    },
+    {
+      "hiragana": "ときどき-じ々",
+      "romaji": "tokidoki-ji々"
+    },
+    {
+      "hiragana": "とけい",
+      "romaji": "tokei"
+    },
+    {
+      "hiragana": "どこ",
+      "romaji": "doko"
+    },
+    {
+      "hiragana": "ところ-しょ",
+      "romaji": "tokoro-sho"
+    },
+    {
+      "hiragana": "としょかん",
+      "romaji": "toshokan"
+    },
+    {
+      "hiragana": "どちら",
+      "romaji": "dochira"
+    },
+    {
+      "hiragana": "とても",
+      "romaji": "totemo"
+    },
+    {
+      "hiragana": "どなた",
+      "romaji": "donata"
+    },
+    {
+      "hiragana": "となり",
+      "romaji": "tonari"
+    },
+    {
+      "hiragana": "どの（どのひと）",
+      "romaji": "dono(donohito)"
+    },
+    {
+      "hiragana": "とぶ",
+      "romaji": "tobu"
+    },
+    {
+      "hiragana": "とまる",
+      "romaji": "tomaru"
+    },
+    {
+      "hiragana": "ともだち",
+      "romaji": "tomodachi"
+    },
+    {
+      "hiragana": "どようび",
+      "romaji": "doyoubi"
+    },
+    {
+      "hiragana": "どようび-とり",
+      "romaji": "doyoubi-tori"
+    },
+    {
+      "hiragana": "とり",
+      "romaji": "tori"
+    },
+    {
+      "hiragana": "とりにく",
+      "romaji": "toriniku"
+    },
+    {
+      "hiragana": "とる",
+      "romaji": "toru"
+    },
+    {
+      "hiragana": "どれ",
+      "romaji": "dore"
+    },
+    {
+      "hiragana": "どんな",
+      "romaji": "donna"
+    },
+    {
+      "hiragana": "ない",
+      "romaji": "nai"
+    },
+    {
+      "hiragana": "ないふ",
+      "romaji": "naifu"
+    },
+    {
+      "hiragana": "なか-ちゅう",
+      "romaji": "naka-chuu"
+    },
+    {
+      "hiragana": "ながい",
+      "romaji": "nagai"
+    },
+    {
+      "hiragana": "なく",
+      "romaji": "naku"
+    },
+    {
+      "hiragana": "なつ",
+      "romaji": "natsu"
+    },
+    {
+      "hiragana": "なつやすみ",
+      "romaji": "natsuyasumi"
+    },
+    {
+      "hiragana": "~など",
+      "romaji": "~nado"
+    },
+    {
+      "hiragana": "ななつ",
+      "romaji": "nanatsu"
+    },
+    {
+      "hiragana": "なに",
+      "romaji": "nani"
+    },
+    {
+      "hiragana": "なん",
+      "romaji": "nan"
+    },
+    {
+      "hiragana": "なのか",
+      "romaji": "nanoka"
+    },
+    {
+      "hiragana": "ななにち",
+      "romaji": "nananichi"
+    },
+    {
+      "hiragana": "なまえ",
+      "romaji": "namae"
+    },
+    {
+      "hiragana": "ならう",
+      "romaji": "narau"
+    },
+    {
+      "hiragana": "ならぶ",
+      "romaji": "narabu"
+    },
+    {
+      "hiragana": "ならべる",
+      "romaji": "naraberu"
+    },
+    {
+      "hiragana": "なる",
+      "romaji": "naru"
+    },
+    {
+      "hiragana": "に",
+      "romaji": "ni"
+    },
+    {
+      "hiragana": "にぎやか",
+      "romaji": "nigiyaka"
+    },
+    {
+      "hiragana": "にく",
+      "romaji": "niku"
+    },
+    {
+      "hiragana": "にし",
+      "romaji": "nishi"
+    },
+    {
+      "hiragana": "~にち",
+      "romaji": "~nichi"
+    },
+    {
+      "hiragana": "~び",
+      "romaji": "~bi"
+    },
+    {
+      "hiragana": "にちようび",
+      "romaji": "nichiyoubi"
+    },
+    {
+      "hiragana": "にもつ",
+      "romaji": "nimotsu"
+    },
+    {
+      "hiragana": "にゅーす",
+      "romaji": "nyu-su"
+    },
+    {
+      "hiragana": "にわ",
+      "romaji": "niwa"
+    },
+    {
+      "hiragana": "~にん",
+      "romaji": "~nin"
+    },
+    {
+      "hiragana": "ぬぐ",
+      "romaji": "nugu"
+    },
+    {
+      "hiragana": "ねくたい",
+      "romaji": "nekutai"
+    },
+    {
+      "hiragana": "ねる",
+      "romaji": "neru"
+    },
+    {
+      "hiragana": "~ねん",
+      "romaji": "~nen"
+    },
+    {
+      "hiragana": "のーと",
+      "romaji": "no-to"
+    },
+    {
+      "hiragana": "のぼる",
+      "romaji": "noboru"
+    },
+    {
+      "hiragana": "のみもの",
+      "romaji": "nomimono"
+    },
+    {
+      "hiragana": "のむ",
+      "romaji": "nomu"
+    },
+    {
+      "hiragana": "のる",
+      "romaji": "noru"
+    },
+    {
+      "hiragana": "~まい",
+      "romaji": "~mai"
+    },
+    {
+      "hiragana": "まいあさ",
+      "romaji": "maiasa"
+    },
+    {
+      "hiragana": "まいげつ",
+      "romaji": "maigetsu"
+    },
+    {
+      "hiragana": "まいつき",
+      "romaji": "maitsuki"
+    },
+    {
+      "hiragana": "まいしゅう",
+      "romaji": "maishuu"
+    },
+    {
+      "hiragana": "まいにち",
+      "romaji": "mainichi"
+    },
+    {
+      "hiragana": "まいねん",
+      "romaji": "mainen"
+    },
+    {
+      "hiragana": "まいとし",
+      "romaji": "maitoshi"
+    },
+    {
+      "hiragana": "まいばん",
+      "romaji": "maiban"
+    },
+    {
+      "hiragana": "まえ",
+      "romaji": "mae"
+    },
+    {
+      "hiragana": "ぜん",
+      "romaji": "zen"
+    },
+    {
+      "hiragana": "~まえ",
+      "romaji": "~mae"
+    },
+    {
+      "hiragana": "~ぜん",
+      "romaji": "~zen"
+    },
+    {
+      "hiragana": "まがる",
+      "romaji": "magaru"
+    },
+    {
+      "hiragana": "まずい",
+      "romaji": "mazui"
+    },
+    {
+      "hiragana": "また",
+      "romaji": "mata"
+    },
+    {
+      "hiragana": "まだ",
+      "romaji": "mada"
+    },
+    {
+      "hiragana": "まち-まち",
+      "romaji": "machi-machi"
+    },
+    {
+      "hiragana": "まつ",
+      "romaji": "matsu"
+    },
+    {
+      "hiragana": "まっすぐ",
+      "romaji": "massugu"
+    },
+    {
+      "hiragana": "まっち",
+      "romaji": "matchi"
+    },
+    {
+      "hiragana": "まど",
+      "romaji": "mado"
+    },
+    {
+      "hiragana": "まるい",
+      "romaji": "marui"
+    },
+    {
+      "hiragana": "まん",
+      "romaji": "man"
+    },
+    {
+      "hiragana": "まんねんひつ",
+      "romaji": "mannenhitsu"
+    },
+    {
+      "hiragana": "みがく",
+      "romaji": "migaku"
+    },
+    {
+      "hiragana": "みぎ",
+      "romaji": "migi"
+    },
+    {
+      "hiragana": "みじかい",
+      "romaji": "mijikai"
+    },
+    {
+      "hiragana": "みじかい-みず-すい",
+      "romaji": "mijikai-mizu-sui"
+    },
+    {
+      "hiragana": "みせ-てん",
+      "romaji": "mise-ten"
+    },
+    {
+      "hiragana": "みせる",
+      "romaji": "miseru"
+    },
+    {
+      "hiragana": "みせる-みち-どう",
+      "romaji": "miseru-michi-dou"
+    },
+    {
+      "hiragana": "みっか",
+      "romaji": "mikka"
+    },
+    {
+      "hiragana": "さんにち",
+      "romaji": "sannichi"
+    },
+    {
+      "hiragana": "みっつ",
+      "romaji": "mittsu"
+    },
+    {
+      "hiragana": "みなさん",
+      "romaji": "minasan"
+    },
+    {
+      "hiragana": "みなみ",
+      "romaji": "minami"
+    },
+    {
+      "hiragana": "みみ",
+      "romaji": "mimi"
+    },
+    {
+      "hiragana": "みる",
+      "romaji": "miru"
+    },
+    {
+      "hiragana": "みんな",
+      "romaji": "minna"
+    },
+    {
+      "hiragana": "むいか",
+      "romaji": "muika"
+    },
+    {
+      "hiragana": "ろくにち",
+      "romaji": "rokunichi"
+    },
+    {
+      "hiragana": "むこう",
+      "romaji": "mukou"
+    },
+    {
+      "hiragana": "むずかしい",
+      "romaji": "muzukashii"
+    },
+    {
+      "hiragana": "むっつ",
+      "romaji": "muttsu"
+    },
+    {
+      "hiragana": "むっつ-め-め",
+      "romaji": "muttsu-me-me"
+    },
+    {
+      "hiragana": "めーとる",
+      "romaji": "me-toru"
+    },
+    {
+      "hiragana": "めがね",
+      "romaji": "megane"
+    },
+    {
+      "hiragana": "かえりました",
+      "romaji": "kaerimashita"
+    },
+    {
+      "hiragana": "もう（もういちど）",
+      "romaji": "mou(mouichido)"
+    },
+    {
+      "hiragana": "もくようび",
+      "romaji": "mokuyoubi"
+    },
+    {
+      "hiragana": "もしもし",
+      "romaji": "moshimoshi"
+    },
+    {
+      "hiragana": "もちろん",
+      "romaji": "mochiron"
+    },
+    {
+      "hiragana": "もつ",
+      "romaji": "motsu"
+    },
+    {
+      "hiragana": "もっと",
+      "romaji": "motto"
+    },
+    {
+      "hiragana": "もの-ぶつ",
+      "romaji": "mono-butsu"
+    },
+    {
+      "hiragana": "もん-もん",
+      "romaji": "mon-mon"
+    },
+    {
+      "hiragana": "もんだい",
+      "romaji": "mondai"
+    },
+    {
+      "hiragana": "~や",
+      "romaji": "~ya"
+    },
+    {
+      "hiragana": "やおや",
+      "romaji": "yaoya"
+    },
+    {
+      "hiragana": "やさい",
+      "romaji": "yasai"
+    },
+    {
+      "hiragana": "やさしい",
+      "romaji": "yasashii"
+    },
+    {
+      "hiragana": "やすい",
+      "romaji": "yasui"
+    },
+    {
+      "hiragana": "やすみ",
+      "romaji": "yasumi"
+    },
+    {
+      "hiragana": "やすむ",
+      "romaji": "yasumu"
+    },
+    {
+      "hiragana": "やっつ",
+      "romaji": "yattsu"
+    },
+    {
+      "hiragana": "やま-さん",
+      "romaji": "yama-san"
+    },
+    {
+      "hiragana": "やる（しごとをやる）",
+      "romaji": "yaru(shigotowoyaru)"
+    },
+    {
+      "hiragana": "ゆうがた",
+      "romaji": "yuugata"
+    },
+    {
+      "hiragana": "ゆうびんきょく",
+      "romaji": "yuubinkyoku"
+    },
+    {
+      "hiragana": "ゆうべ（’さくばん’のい）",
+      "romaji": "yuube(’sakuban’noi)"
+    },
+    {
+      "hiragana": "ゆうめい",
+      "romaji": "yuumei"
+    },
+    {
+      "hiragana": "ゆき",
+      "romaji": "yuki"
+    },
+    {
+      "hiragana": "ゆっくり-ようか",
+      "romaji": "yukkuri-youka"
+    },
+    {
+      "hiragana": "はちにち-ようふく",
+      "romaji": "hachinichi-youfuku"
+    },
+    {
+      "hiragana": "ようふく",
+      "romaji": "youfuku"
+    },
+    {
+      "hiragana": "よく（よくいく）",
+      "romaji": "yoku(yokuiku)"
+    },
+    {
+      "hiragana": "よく（よくできる）",
+      "romaji": "yoku(yokudekiru)"
+    },
+    {
+      "hiragana": "よこ",
+      "romaji": "yoko"
+    },
+    {
+      "hiragana": "よっか",
+      "romaji": "yokka"
+    },
+    {
+      "hiragana": "よんにち",
+      "romaji": "yonnichi"
+    },
+    {
+      "hiragana": "よっつ",
+      "romaji": "yottsu"
+    },
+    {
+      "hiragana": "よぶ",
+      "romaji": "yobu"
+    },
+    {
+      "hiragana": "よむ",
+      "romaji": "yomu"
+    },
+    {
+      "hiragana": "よる",
+      "romaji": "yoru"
+    },
+    {
+      "hiragana": "らいげつ",
+      "romaji": "raigetsu"
+    },
+    {
+      "hiragana": "らいげつ-らいしゅう",
+      "romaji": "raigetsu-raishuu"
+    },
+    {
+      "hiragana": "らいしゅう",
+      "romaji": "raishuu"
+    },
+    {
+      "hiragana": "らいねん",
+      "romaji": "rainen"
+    },
+    {
+      "hiragana": "らじお",
+      "romaji": "rajio"
+    },
+    {
+      "hiragana": "りっぱ",
+      "romaji": "rippa"
+    },
+    {
+      "hiragana": "りゅうがくせい",
+      "romaji": "ryuugakusei"
+    },
+    {
+      "hiragana": "りょうしん",
+      "romaji": "ryoushin"
+    },
+    {
+      "hiragana": "りょうり",
+      "romaji": "ryouri"
+    },
+    {
+      "hiragana": "りょこう",
+      "romaji": "ryokou"
+    },
+    {
+      "hiragana": "れい",
+      "romaji": "rei"
+    },
+    {
+      "hiragana": "れいぞうこ",
+      "romaji": "reizouko"
+    },
+    {
+      "hiragana": "れこーど",
+      "romaji": "reko-do"
+    },
+    {
+      "hiragana": "れすとらん",
+      "romaji": "resutoran"
+    },
+    {
+      "hiragana": "れんしゅう",
+      "romaji": "renshuu"
+    },
+    {
+      "hiragana": "ろく",
+      "romaji": "roku"
+    },
+    {
+      "hiragana": "わいしゃつ",
+      "romaji": "waishatsu"
+    },
+    {
+      "hiragana": "わかい",
+      "romaji": "wakai"
+    },
+    {
+      "hiragana": "わかる",
+      "romaji": "wakaru"
+    },
+    {
+      "hiragana": "わすれる",
+      "romaji": "wasureru"
+    },
+    {
+      "hiragana": "わたくし",
+      "romaji": "watakushi"
+    },
+    {
+      "hiragana": "わたし",
+      "romaji": "watashi"
+    },
+    {
+      "hiragana": "わたす",
+      "romaji": "watasu"
+    },
+    {
+      "hiragana": "わたる",
+      "romaji": "wataru"
+    },
+    {
+      "hiragana": "わるい",
+      "romaji": "warui"
+    }
+  ]
+}
+
