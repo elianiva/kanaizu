@@ -15,7 +15,6 @@
     counter.subscribe(value => {
       const limit = $selected.limit === "" ? 40 : $selected.limit
       const width = (100 / parseInt(limit)) * $counter
-      console.log(width)
       progressbar.style.width = `${width}%`
     })
   })

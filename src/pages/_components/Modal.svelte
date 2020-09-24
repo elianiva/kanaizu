@@ -40,7 +40,5 @@
   import Option from "./Option.svelte"
   import { isVisible, selected, isValid } from "./stores.js"
 
-  $: console.log($isValid)
-
   export let data
 </script>
