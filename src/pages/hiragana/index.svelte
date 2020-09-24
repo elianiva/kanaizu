@@ -24,7 +24,10 @@
   import { Timer, shuffleArray } from "../_components/utils"
   let input
 
-  let currentData = shuffleArray(data.data).splice(0, $selected.limit === "" ? 40 : $selected.limit)
+  let currentData = shuffleArray(data.data).splice(
+    0,
+    $selected.limit === "" ? 40 : $selected.limit
+  )
   let hiragana = currentData[0].hiragana
 
   let countdown = parseInt($selected.time)
@@ -37,12 +40,12 @@
   }, 1000)
 
   onMount(() => {
-    if (!$isValid) $redirect("/result")
+    if (!$isValid) $redirect("/")
     timer.start()
   })
 
   const next = () => {
-    if ($counter + 1 === $selected.limit) $redirect("/")
+    if ($counter + 1 === $selected.limit) $redirect("/result")
     if (input === currentData[$counter].romaji) {
       const correct = {
         hiragana: currentData[$counter].hiragana,
