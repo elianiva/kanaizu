@@ -1,6 +1,9 @@
 <div
   class="fixed bottom-4 left-4 right-4 bg-gray-300 h-8 rounded-lg shadow-inner">
-  <div class="h-full bg-blue-600 rounded-lg shadow-md transition-all ease-out duration-200" id="progressbar" />
+  <div
+    class="h-full bg-blue-600 rounded-lg shadow-md transition-all ease-out
+      duration-200"
+    id="progressbar" />
 </div>
 
 <script>
