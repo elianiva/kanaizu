@@ -2,6 +2,8 @@ import { writable, readable } from "svelte/store"
 
 export const isVisible = writable(false)
 
+export const isValid = writable(false)
+
 export const scores = writable({
   correct: [],
   wrong: [],

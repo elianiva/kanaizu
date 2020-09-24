@@ -1,7 +1,8 @@
 {#if link}
   <a
     class="font-4xl text-2xl rounded-md shadow-lg text-center smooth {styles}"
-    href={href}>
+    href={href}
+    on:click={onclick}>
     {txt}
   </a>
 {:else}

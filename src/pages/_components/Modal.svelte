@@ -22,6 +22,7 @@
       <Button
         href={$url('../hiragana')}
         link={true}
+        onclick={() => isValid.set(true)}
         txt="Start"
         styles="py-2 flex-1 montserrat font-semibold hover:bg-black bg-gray-900 text-white hover:move-up" />
       <Button
@@ -37,7 +38,9 @@
   import { url } from "@sveltech/routify"
   import Button from "./Button.svelte"
   import Option from "./Option.svelte"
-  import { isVisible, selected } from "./stores.js"
+  import { isVisible, selected, isValid } from "./stores.js"
+
+  $: console.log($isValid)
 
   export let data
 </script>
