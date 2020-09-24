@@ -37,11 +37,12 @@
   }, 1000)
 
   onMount(() => {
-    if (!$isValid) $redirect("/")
+    if (!$isValid) $redirect("/result")
     timer.start()
   })
 
   const next = () => {
+    if ($counter + 1 === $selected.limit) $redirect("/")
     if (input === currentData[$counter].romaji) {
       const correct = {
         hiragana: currentData[$counter].hiragana,
