@@ -2,6 +2,7 @@ import { createRollupConfigs } from "./scripts/base.config.js"
 import autoPreprocess from "svelte-preprocess"
 import postcssImport from "postcss-import"
 import tailwindcss from "tailwindcss"
+import json from "@rollup/plugin-json"
 
 const production = !process.env.ROLLUP_WATCH
 
@@ -11,18 +12,20 @@ export const config = {
   buildDir: `dist/build`,
   serve: !production,
   production,
-  rollupWrapper: rollup => rollup,
+  rollupWrapper: rollup => {
+    rollup.plugins = [...rollup.plugins, json()]
+  },
   svelteWrapper: svelte => {
     svelte.preprocess = [
       autoPreprocess({
         postcss: {
-          plugins: [postcssImport(), tailwindcss("./tailwind.config.js")]
+          plugins: [postcssImport(), tailwindcss("./tailwind.config.js")],
         },
-        defaults: { style: "postcss" }
-      })
+        defaults: { style: "postcss" },
+      }),
     ]
   },
-  swWrapper: worker => worker
+  swWrapper: worker => worker,
 }
 
 const configs = createRollupConfigs(config)
