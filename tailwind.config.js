@@ -15,6 +15,9 @@ module.exports = {
       opacity: {
         90: "0.9",
       },
+      inset: {
+        4: "1rem",
+      },
     },
   },
   variants: {},
