@@ -4,6 +4,8 @@ export const isVisible = writable(false)
 
 export const isValid = writable(false)
 
+export const counter = writable(0)
+
 export const scores = writable({
   correct: [],
   wrong: [],
