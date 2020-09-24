@@ -3,22 +3,16 @@ import { writable, readable } from "svelte/store"
 export const isVisible = writable(false)
 
 export const selected = writable({
-  level: "n5",
+  auto: false,
   limit: "",
-  time: "10s",
+  time: "10",
   font: "noto-sans",
 })
 
 export const data = readable({
-  level: {
-    title: "JLPT Level",
-    items: [
-      { value: "n5", text: "N5" },
-      { value: "n4", text: "N4" },
-      { value: "n3", text: "N3" },
-      { value: "n2", text: "N2" },
-      { value: "n1", text: "N1" },
-    ],
+  auto: {
+    title: "Automatic enter",
+    placeholder: 40,
   },
   limit: {
     title: "Word Limit",
@@ -29,11 +23,11 @@ export const data = readable({
   time: {
     title: "Time Limit",
     items: [
-      { value: "10s", text: "10 secs" },
-      { value: "30s", text: "30 secs" },
-      { value: "1m", text: "1 min" },
-      { value: "2m", text: "2 mins" },
-      { value: "5m", text: "5 mins" },
+      { value: "10", text: "10 secs" },
+      { value: "30", text: "30 secs" },
+      { value: "60", text: "1 min" },
+      { value: "120", text: "2 mins" },
+      { value: "400", text: "5 mins" },
     ],
   },
   font: {
