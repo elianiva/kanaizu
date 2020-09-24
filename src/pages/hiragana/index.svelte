@@ -9,7 +9,7 @@
     class="rounded-md shadow-lg text-4xl p-4 outline-none text-center"
     type="text"
     bind:value={input}
-    on:keyup={e => e.key === 'Enter' && next()}
+    on:keydown={e => e.key === 'Enter' && next()}
     placeholder="Insert your answer" />
 </div>
 <Progressbar />
@@ -24,7 +24,7 @@
   import { Timer, shuffleArray } from "../_components/utils"
   let input
 
-  let currentData = shuffleArray(data.data).splice(0, 40)
+  let currentData = shuffleArray(data.data).splice(0, $selected.limit)
   let hiragana = currentData[0].hiragana
 
   let countdown = parseInt($selected.time)
