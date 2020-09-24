@@ -24,7 +24,7 @@
   import { Timer, shuffleArray } from "../_components/utils"
   let input
 
-  let currentData = shuffleArray(data.data).splice(0, $selected.limit)
+  let currentData = shuffleArray(data.data).splice(0, $selected.limit === "" ? 40 : $selected.limit)
   let hiragana = currentData[0].hiragana
 
   let countdown = parseInt($selected.time)
