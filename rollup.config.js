@@ -24,8 +24,10 @@ export const config = {
           plugins: [
             postcssImport(),
             tailwindcss("./tailwind.config.js"),
+            purgecss({
+              content: ["./src/**/*.svelte"],
+            }),
             cssnano(),
-            purgecss(),
           ],
         },
         defaults: { style: "postcss" },
