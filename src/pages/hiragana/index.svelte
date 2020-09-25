@@ -16,12 +16,16 @@
 
 <script>
   import { onMount } from "svelte"
-  import { redirect } from "@sveltech/routify"
+  import { metatags, redirect } from "@sveltech/routify"
   import Counter from "../_components/Counter.svelte"
   import Progressbar from "../_components/Progressbar.svelte"
   import { selected, scores, isValid, counter } from "../_components/stores"
   import data from "../../data/hiragana.json"
   import { Timer, shuffleArray } from "../_components/utils"
+
+  metatags.title = "Hiragana | カナイズ"
+  metatags.description = "Hiragana and katakana quiz app"
+
   let input
 
   let currentData = shuffleArray(data.data).splice(
