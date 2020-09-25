@@ -5,10 +5,10 @@
   <div
     class="flex flex-col align-center relative p-8 bg-white rounded-md z-20"
     transition:fly={{ y: -25, duration: 250 }}>
-    <h1 class="text-gray-900 text-2xl mplus font-semibold mb-4">
-      {title}
-    </h1>
-    <form class="flex flex-col gap-4 text-gray-800" on:submit|preventDefault={() => null}>
+    <h1 class="text-gray-900 text-2xl mplus font-semibold mb-4">{title}</h1>
+    <form
+      class="flex flex-col gap-4 text-gray-800"
+      on:submit|preventDefault={() => null}>
       <Option data={data.auto} name="auto" type="checkbox" />
       <Option data={data.limit} name="limit" type="input" />
       <Option data={data.time} name="time" />
@@ -20,7 +20,7 @@
     </form>
     <div class="flex gap-4 mt-4">
       <Button
-        href={$url('../hiragana')}
+        href={$url(`../${path}`)}
         link={true}
         onclick={() => isValid.set(true)}
         txt="Start"
@@ -40,5 +40,5 @@
   import Option from "./Option.svelte"
   import { isVisible, selected, isValid } from "./stores.js"
 
-  export let data, title
+  export let data, title, path
 </script>

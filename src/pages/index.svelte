@@ -1,5 +1,5 @@
 {#if isModalShown}
-  <Modal title={modalTitle} data={$data} />
+  <Modal path={path} title={modalTitle} data={$data} />
 {/if}
 
 <div class="flex-1 flex flex-col items-center justify-center">
@@ -12,14 +12,16 @@
   <div class="flex gap-4">
     <Button
       onclick={() => {
-        modalTitle = "Hiragana Settings"
+        modalTitle = 'Hiragana Settings'
+        path = '/hiragana'
         isVisible.update(status => !status)
       }}
       txt="Hiragana"
       styles="py-4 px-8 montserrat font-semibold hover:bg-black bg-gray-900 text-white hover:move-up" />
     <Button
       onclick={() => {
-        modalTitle = "Katakana Settings"
+        modalTitle = 'Katakana Settings'
+        path = '/katakana'
         isVisible.update(status => !status)
       }}
       txt="Katakana"
@@ -35,8 +37,7 @@
   import Modal from "./_components/Modal.svelte"
   import { isVisible, data } from "./_components/stores.js"
 
-  let isModalShown
-  let modalTitle
+  let isModalShown, modalTitle, path
 
   isVisible.subscribe(value => (isModalShown = value))
 
