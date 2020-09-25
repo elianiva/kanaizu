@@ -6,9 +6,9 @@
     class="flex flex-col align-center relative p-8 bg-white rounded-md z-20"
     transition:fly={{ y: -25, duration: 250 }}>
     <h1 class="text-gray-900 text-2xl mplus font-semibold mb-4">
-      Hiragana Settings
+      {title}
     </h1>
-    <form class="flex flex-col gap-4 text-gray-800">
+    <form class="flex flex-col gap-4 text-gray-800" on:submit|preventDefault={() => null}>
       <Option data={data.auto} name="auto" type="checkbox" />
       <Option data={data.limit} name="limit" type="input" />
       <Option data={data.time} name="time" />
@@ -40,5 +40,5 @@
   import Option from "./Option.svelte"
   import { isVisible, selected, isValid } from "./stores.js"
 
-  export let data
+  export let data, title
 </script>

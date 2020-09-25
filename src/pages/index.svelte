@@ -1,5 +1,5 @@
 {#if isModalShown}
-  <Modal data={$data} />
+  <Modal title={modalTitle} data={$data} />
 {/if}
 
 <div class="flex-1 flex flex-col items-center justify-center">
@@ -11,11 +11,17 @@
   <span class="text-4xl mplus my-8">ひらがな and カタカナ quiz app</span>
   <div class="flex gap-4">
     <Button
-      onclick={() => isVisible.update(status => !status)}
+      onclick={() => {
+        modalTitle = "Hiragana Settings"
+        isVisible.update(status => !status)
+      }}
       txt="Hiragana"
       styles="py-4 px-8 montserrat font-semibold hover:bg-black bg-gray-900 text-white hover:move-up" />
     <Button
-      onclick={() => isVisible.update(status => !status)}
+      onclick={() => {
+        modalTitle = "Katakana Settings"
+        isVisible.update(status => !status)
+      }}
       txt="Katakana"
       styles="py-4 px-8 montserrat font-semibold hover:bg-black bg-gray-900 text-white hover:move-up" />
   </div>
@@ -30,6 +36,7 @@
   import { isVisible, data } from "./_components/stores.js"
 
   let isModalShown
+  let modalTitle
 
   isVisible.subscribe(value => (isModalShown = value))
 
