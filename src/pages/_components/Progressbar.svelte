@@ -8,7 +8,7 @@
 
 <script>
   import { onMount } from "svelte"
-  import { counter, selected } from "../../_components/stores.js"
+  import { counter, selected } from "../_components/stores"
 
   onMount(() => {
     const progressbar = document.querySelector("#progressbar")
