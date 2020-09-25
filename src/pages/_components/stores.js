@@ -27,7 +27,7 @@ export const data = readable({
   limit: {
     title: "Word Limit",
     min: 10,
-    max: 800,
+    max: 508,
     placeholder: 40,
   },
   time: {
