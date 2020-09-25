@@ -33,7 +33,7 @@
   import { scores } from "../_components/stores"
   import Table from "./_components/Table.svelte"
   import Button from "../_components/Button.svelte"
-  const totalTime = $scores.times.reduce((curr, acc) => curr + acc)
+  const totalTime = $scores.times.reduce((curr, acc) => (curr + acc), 0)
   const average = totalTime / $scores.times.length
 
   const getMessage = avg => {
