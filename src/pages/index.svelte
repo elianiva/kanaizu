@@ -31,13 +31,25 @@
 <Footer />
 
 <script>
+  import { onMount } from "svelte"
   import { metatags } from "@sveltech/routify"
   import Button from "./_components/Button.svelte"
   import Footer from "./_components/Footer.svelte"
   import Modal from "./_components/Modal.svelte"
-  import { isVisible, data } from "./_components/stores.js"
+  import { isVisible, data, isValid, counter, scores, selected } from "./_components/stores.js"
 
   let isModalShown, modalTitle, path
+
+  onMount(() => {
+    isVisible.set(false)
+    isValid.set(false)
+    counter.set(0)
+    scores.set({
+      correct: [],
+      wrong: [],
+      times: [],
+    })
+  })
 
   isVisible.subscribe(value => (isModalShown = value))
 

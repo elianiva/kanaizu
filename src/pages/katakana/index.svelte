@@ -49,7 +49,8 @@
   })
 
   const next = () => {
-    if ($counter + 1 === $selected.limit) $redirect("/result")
+    const limit = $selected.limit === "" ? 40 : $selected.limit
+    if ($counter + 1 === limit) $redirect("/result")
     if (input === currentData[$counter].romaji) {
       const correct = {
         katakana: currentData[$counter].katakana,

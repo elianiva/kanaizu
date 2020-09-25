@@ -2,7 +2,7 @@
   <span class="block text-2xl font-bold tracking-wider mb-2 mplus">{title} ({data.length})</span>
   <table class="rounded-md overflow-hidden mplus w-full">
     <thead>
-      <tr class="text-white bg-{type === 'wrong' ? 'red' : 'blue'}-400 text-xl">
+      <tr class="text-white {type === 'wrong' ? 'bg-red-400' : 'bg-blue-400'} text-xl">
         <th class="px-6 py-4">#</th>
         <th class="px-6 py-4">Hiragana</th>
         <th class="px-6 py-4">Correct</th>
@@ -13,7 +13,7 @@
       {#if data.length < 1}
         <tr class="bg-white text-lg">
           <td
-            class="px-6 py-4 text-center bg-{type === 'wrong' ? 'red' : 'blue'}-100"
+            class="px-6 py-4 text-center {type === 'wrong' ? 'bg-red-400' : 'bg-blue-100'}"
             colspan="4">
             You don't have any {type} answer.
           </td>
@@ -21,7 +21,7 @@
       {:else}
         {#each data as item, index}
           <tr
-            class="even:bg-{type === 'wrong' ? 'red' : 'blue'}-200 text-lg bg-{type === 'wrong' ? 'red' : 'blue'}-100">
+            class="{type === 'wrong' ? 'even:bg-red-200' : 'even:bg-blue-200'} text-lg {type === 'wrong' ? 'bg-red-100' : 'bg-blue-100'}">
             <td class="px-6 py-4">{index + 1}</td>
             <td class="px-6 py-4">{item.hiragana}</td>
             <td class="px-6 py-4">{item.correct}</td>
