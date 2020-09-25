@@ -1,0 +1,2437 @@
+{
+  "data": [
+    {
+      "katakana": "アア",
+      "romaji": "aa"
+    },
+    {
+      "katakana": " アウ",
+      "romaji": "au"
+    },
+    {
+      "katakana": " アオイ",
+      "romaji": "aoi"
+    },
+    {
+      "katakana": " アカイ",
+      "romaji": "akai"
+    },
+    {
+      "katakana": " アカルイ",
+      "romaji": "akarui"
+    },
+    {
+      "katakana": " アキ",
+      "romaji": "aki"
+    },
+    {
+      "katakana": " アク",
+      "romaji": "aku"
+    },
+    {
+      "katakana": " ヒラク",
+      "romaji": "hiraku"
+    },
+    {
+      "katakana": " アケル",
+      "romaji": "akeru"
+    },
+    {
+      "katakana": " アゲル",
+      "romaji": "ageru"
+    },
+    {
+      "katakana": " ア サ",
+      "romaji": "asa"
+    },
+    {
+      "katakana": " ア サ ゴハン",
+      "romaji": "asagohan"
+    },
+    {
+      "katakana": " アサッテ",
+      "romaji": "asatte"
+    },
+    {
+      "katakana": " ミ ョウゴニチ",
+      "romaji": "myougonichi"
+    },
+    {
+      "katakana": " アシ",
+      "romaji": "ashi"
+    },
+    {
+      "katakana": " アシタ",
+      "romaji": "ashita"
+    },
+    {
+      "katakana": " アソコ",
+      "romaji": "asoko"
+    },
+    {
+      "katakana": " アソブ",
+      "romaji": "asobu"
+    },
+    {
+      "katakana": " アタタカイ",
+      "romaji": "atatakai"
+    },
+    {
+      "katakana": " ア タマ",
+      "romaji": "atama"
+    },
+    {
+      "katakana": " アタラシイ",
+      "romaji": "atarashii"
+    },
+    {
+      "katakana": " アチラ",
+      "romaji": "achira"
+    },
+    {
+      "katakana": " カナタ",
+      "romaji": "kanata"
+    },
+    {
+      "katakana": " アツイ",
+      "romaji": "atsui"
+    },
+    {
+      "katakana": " アト - ゴ",
+      "romaji": "ato-go"
+    },
+    {
+      "katakana": " アナタ",
+      "romaji": "anata"
+    },
+    {
+      "katakana": " アニ - ケイ",
+      "romaji": "ani-kei"
+    },
+    {
+      "katakana": " ア ネ",
+      "romaji": "ane"
+    },
+    {
+      "katakana": " アノ",
+      "romaji": "ano"
+    },
+    {
+      "katakana": " カレ ノ",
+      "romaji": "kareno"
+    },
+    {
+      "katakana": " ア パ ー ト",
+      "romaji": "apa-to"
+    },
+    {
+      "katakana": " アビル",
+      "romaji": "abiru"
+    },
+    {
+      "katakana": " アブナイ",
+      "romaji": "abunai"
+    },
+    {
+      "katakana": " アマイ",
+      "romaji": "amai"
+    },
+    {
+      "katakana": " アマイ -アマリ -アマリ",
+      "romaji": "amai-amari-amari"
+    },
+    {
+      "katakana": " アメ -ウ",
+      "romaji": "ame-u"
+    },
+    {
+      "katakana": " アラウ",
+      "romaji": "arau"
+    },
+    {
+      "katakana": " アル",
+      "romaji": "aru"
+    },
+    {
+      "katakana": " アルク",
+      "romaji": "aruku"
+    },
+    {
+      "katakana": " アレ",
+      "romaji": "are"
+    },
+    {
+      "katakana": " イイ",
+      "romaji": "ii"
+    },
+    {
+      "katakana": " ヨイ",
+      "romaji": "yoi"
+    },
+    {
+      "katakana": " イイエ",
+      "romaji": "iie"
+    },
+    {
+      "katakana": " イウ",
+      "romaji": "iu"
+    },
+    {
+      "katakana": " イエ - カ",
+      "romaji": "ie-ka"
+    },
+    {
+      "katakana": " イク",
+      "romaji": "iku"
+    },
+    {
+      "katakana": " イクツ",
+      "romaji": "ikutsu"
+    },
+    {
+      "katakana": " イクラ",
+      "romaji": "ikura"
+    },
+    {
+      "katakana": " イケ - チ",
+      "romaji": "ike-chi"
+    },
+    {
+      "katakana": " イシャ",
+      "romaji": "isha"
+    },
+    {
+      "katakana": " イス",
+      "romaji": "isu"
+    },
+    {
+      "katakana": " イソガシイ",
+      "romaji": "isogashii"
+    },
+    {
+      "katakana": " イタイ",
+      "romaji": "itai"
+    },
+    {
+      "katakana": " イチ",
+      "romaji": "ichi"
+    },
+    {
+      "katakana": " イチ ニ チ",
+      "romaji": "ichinichi"
+    },
+    {
+      "katakana": " イチバン",
+      "romaji": "ichiban"
+    },
+    {
+      "katakana": " イ ツ",
+      "romaji": "itsu"
+    },
+    {
+      "katakana": " イツカ",
+      "romaji": "itsuka"
+    },
+    {
+      "katakana": " ゴ ニ チ",
+      "romaji": "gonichi"
+    },
+    {
+      "katakana": " イッショ ニ",
+      "romaji": "isshoni"
+    },
+    {
+      "katakana": " イッショ ニ -イ ツツ",
+      "romaji": "isshoni-itsutsu"
+    },
+    {
+      "katakana": " イ ツツ",
+      "romaji": "itsutsu"
+    },
+    {
+      "katakana": " イツモ",
+      "romaji": "itsumo"
+    },
+    {
+      "katakana": " イマ",
+      "romaji": "ima"
+    },
+    {
+      "katakana": " コン",
+      "romaji": "kon"
+    },
+    {
+      "katakana": " イミ",
+      "romaji": "imi"
+    },
+    {
+      "katakana": " イモウ ト",
+      "romaji": "imouto"
+    },
+    {
+      "katakana": " イヤ",
+      "romaji": "iya"
+    },
+    {
+      "katakana": " イリ グチ",
+      "romaji": "iriguchi"
+    },
+    {
+      "katakana": " イル",
+      "romaji": "iru"
+    },
+    {
+      "katakana": " イレル",
+      "romaji": "ireru"
+    },
+    {
+      "katakana": " イロ - ショク",
+      "romaji": "iro-shoku"
+    },
+    {
+      "katakana": " イロイロ",
+      "romaji": "iroiro"
+    },
+    {
+      "katakana": " ウエ - ジ ョウ",
+      "romaji": "ue-jou"
+    },
+    {
+      "katakana": " ウシ ロ - ゴ",
+      "romaji": "ushiro-go"
+    },
+    {
+      "katakana": " ウスイ",
+      "romaji": "usui"
+    },
+    {
+      "katakana": " ウタ - カ",
+      "romaji": "uta-ka"
+    },
+    {
+      "katakana": " ウタウ",
+      "romaji": "utau"
+    },
+    {
+      "katakana": " ウチ",
+      "romaji": "uchi"
+    },
+    {
+      "katakana": " ウマレル",
+      "romaji": "umareru"
+    },
+    {
+      "katakana": " ウミ",
+      "romaji": "umi"
+    },
+    {
+      "katakana": " ウル",
+      "romaji": "uru"
+    },
+    {
+      "katakana": " ウワ ギ",
+      "romaji": "uwagi"
+    },
+    {
+      "katakana": " エ - エ",
+      "romaji": "e-e"
+    },
+    {
+      "katakana": " エイ ガ",
+      "romaji": "eiga"
+    },
+    {
+      "katakana": " エイ ガ カン",
+      "romaji": "eigakan"
+    },
+    {
+      "katakana": " エイ ゴ",
+      "romaji": "eigo"
+    },
+    {
+      "katakana": " エエ",
+      "romaji": "ee"
+    },
+    {
+      "katakana": " エ キ - エ キ",
+      "romaji": "eki-eki"
+    },
+    {
+      "katakana": " エレ ベ ータ ー -エン",
+      "romaji": "erebe-ta--en"
+    },
+    {
+      "katakana": " エン",
+      "romaji": "en"
+    },
+    {
+      "katakana": " エンピツ",
+      "romaji": "enpitsu"
+    },
+    {
+      "katakana": " オイシイ",
+      "romaji": "oishii"
+    },
+    {
+      "katakana": " オオキイ",
+      "romaji": "ookii"
+    },
+    {
+      "katakana": " オオ ゼ イ",
+      "romaji": "oozei"
+    },
+    {
+      "katakana": " タイ セイ",
+      "romaji": "taisei"
+    },
+    {
+      "katakana": " オカアサン",
+      "romaji": "okaasan"
+    },
+    {
+      "katakana": " オカシ",
+      "romaji": "okashi"
+    },
+    {
+      "katakana": " オ カネ",
+      "romaji": "okane"
+    },
+    {
+      "katakana": " オキル",
+      "romaji": "okiru"
+    },
+    {
+      "katakana": " オク",
+      "romaji": "oku"
+    },
+    {
+      "katakana": " オク サン",
+      "romaji": "okusan"
+    },
+    {
+      "katakana": " オ サケ",
+      "romaji": "osake"
+    },
+    {
+      "katakana": " オ サラ",
+      "romaji": "osara"
+    },
+    {
+      "katakana": " オジサン",
+      "romaji": "ojisan"
+    },
+    {
+      "katakana": " オジイサン",
+      "romaji": "ojiisan"
+    },
+    {
+      "katakana": " オシエル",
+      "romaji": "oshieru"
+    },
+    {
+      "katakana": " オス",
+      "romaji": "osu"
+    },
+    {
+      "katakana": " オソイ",
+      "romaji": "osoi"
+    },
+    {
+      "katakana": " オ チャ",
+      "romaji": "ocha"
+    },
+    {
+      "katakana": " オ テアライ",
+      "romaji": "otearai"
+    },
+    {
+      "katakana": " オトウサン",
+      "romaji": "otousan"
+    },
+    {
+      "katakana": " オ トウ ト",
+      "romaji": "otouto"
+    },
+    {
+      "katakana": " オ トコ",
+      "romaji": "otoko"
+    },
+    {
+      "katakana": " オト コノ コ",
+      "romaji": "otokonoko"
+    },
+    {
+      "katakana": " オトトイ",
+      "romaji": "ototoi"
+    },
+    {
+      "katakana": " オトトシ",
+      "romaji": "ototoshi"
+    },
+    {
+      "katakana": " オトナ",
+      "romaji": "otona"
+    },
+    {
+      "katakana": " オナカ",
+      "romaji": "onaka"
+    },
+    {
+      "katakana": " オナジ",
+      "romaji": "onaji"
+    },
+    {
+      "katakana": " オ ニイサン",
+      "romaji": "oniisan"
+    },
+    {
+      "katakana": " オ ネエサン",
+      "romaji": "oneesan"
+    },
+    {
+      "katakana": " オバサン",
+      "romaji": "obasan"
+    },
+    {
+      "katakana": " オバアサン",
+      "romaji": "obaasan"
+    },
+    {
+      "katakana": " オ ベ ン トウ",
+      "romaji": "obentou"
+    },
+    {
+      "katakana": " オボエル",
+      "romaji": "oboeru"
+    },
+    {
+      "katakana": " オモイ",
+      "romaji": "omoi"
+    },
+    {
+      "katakana": " オモシロイ",
+      "romaji": "omoshiroi"
+    },
+    {
+      "katakana": " オヨグ",
+      "romaji": "oyogu"
+    },
+    {
+      "katakana": " オリル",
+      "romaji": "oriru"
+    },
+    {
+      "katakana": " オワル",
+      "romaji": "owaru"
+    },
+    {
+      "katakana": " オン ガク",
+      "romaji": "ongaku"
+    },
+    {
+      "katakana": " オンナ",
+      "romaji": "onna"
+    },
+    {
+      "katakana": " オンナ ノ コ",
+      "romaji": "onnanoko"
+    },
+    {
+      "katakana": " カイ - カイ",
+      "romaji": "kai-kai"
+    },
+    {
+      "katakana": " ガ イ コク",
+      "romaji": "gaikoku"
+    },
+    {
+      "katakana": " ガ イコ クジン",
+      "romaji": "gaikokujin"
+    },
+    {
+      "katakana": " カイシャ",
+      "romaji": "kaisha"
+    },
+    {
+      "katakana": " カイ ダ ン",
+      "romaji": "kaidan"
+    },
+    {
+      "katakana": " カイ モ ノ",
+      "romaji": "kaimono"
+    },
+    {
+      "katakana": " カウ",
+      "romaji": "kau"
+    },
+    {
+      "katakana": " カエス",
+      "romaji": "kaesu"
+    },
+    {
+      "katakana": " カエル",
+      "romaji": "kaeru"
+    },
+    {
+      "katakana": " カオ - ガ オ",
+      "romaji": "kao-gao"
+    },
+    {
+      "katakana": " カカル（ ジ カ ン ガ カカル）",
+      "romaji": "kakaru(jikangakakaru)"
+    },
+    {
+      "katakana": " カギ",
+      "romaji": "kagi"
+    },
+    {
+      "katakana": " カク",
+      "romaji": "kaku"
+    },
+    {
+      "katakana": " ガク セイ",
+      "romaji": "gakusei"
+    },
+    {
+      "katakana": " ~ カゲ ツ",
+      "romaji": "~kagetsu"
+    },
+    {
+      "katakana": " カケル（ メガネ ヲ カケル）",
+      "romaji": "kakeru(meganewokakeru)"
+    },
+    {
+      "katakana": " カケル（ デンワ ヲ カケル）",
+      "romaji": "kakeru(denwawokakeru)"
+    },
+    {
+      "katakana": " カサ",
+      "romaji": "kasa"
+    },
+    {
+      "katakana": " カス",
+      "romaji": "kasu"
+    },
+    {
+      "katakana": " カゼ -フウ",
+      "romaji": "kaze-fuu "
+    },
+    {
+      "katakana": " カ ゾク",
+      "romaji": "kazoku"
+    },
+    {
+      "katakana": " カ ゾク -カタ -（ コノ ホウ） -カタ カ ナ",
+      "romaji": "kazoku-kata-(konohou)-katakana"
+    },
+    {
+      "katakana": " カタ カ ナ",
+      "romaji": "katakana"
+    },
+    {
+      "katakana": " ~ ガ ツ",
+      "romaji": "~gatsu"
+    },
+    {
+      "katakana": " ~ツキ -ガッ コウ",
+      "romaji": "~tsuki-gakkou"
+    },
+    {
+      "katakana": "ガッ コウ",
+      "romaji": "gakkou"
+    },
+    {
+      "katakana": " カ ド - カク",
+      "romaji": "kado-kaku"
+    },
+    {
+      "katakana": " カナイ",
+      "romaji": "kanai"
+    },
+    {
+      "katakana": " カバン",
+      "romaji": "kaban"
+    },
+    {
+      "katakana": " カビン",
+      "romaji": "kabin"
+    },
+    {
+      "katakana": " カブル",
+      "romaji": "kaburu"
+    },
+    {
+      "katakana": " カミ -シ",
+      "romaji": "kami-shi"
+    },
+    {
+      "katakana": " カメラ",
+      "romaji": "kamera"
+    },
+    {
+      "katakana": " カヨウ ビ",
+      "romaji": "kayoubi"
+    },
+    {
+      "katakana": " カライ",
+      "romaji": "karai"
+    },
+    {
+      "katakana": " ツライ",
+      "romaji": "tsurai"
+    },
+    {
+      "katakana": " カラ ダ - タイ",
+      "romaji": "karada-tai"
+    },
+    {
+      "katakana": " カリル",
+      "romaji": "kariru"
+    },
+    {
+      "katakana": " ~ガル",
+      "romaji": "~garu"
+    },
+    {
+      "katakana": " カルイ",
+      "romaji": "karui"
+    },
+    {
+      "katakana": " カレン ダ ー",
+      "romaji": "karenda"
+    },
+    {
+      "katakana": " カ ワ - ガ ワ",
+      "romaji": "kawa-gawa"
+    },
+    {
+      "katakana": " カ ワ",
+      "romaji": "kawa"
+    },
+    {
+      "katakana": " ~ ガ ワ",
+      "romaji": "~gawa"
+    },
+    {
+      "katakana": " カワイイ",
+      "romaji": "kawaii"
+    },
+    {
+      "katakana": " カンジ",
+      "romaji": "kanji"
+    },
+    {
+      "katakana": " キ",
+      "romaji": "ki"
+    },
+    {
+      "katakana": " キイロイ",
+      "romaji": "kiiroi"
+    },
+    {
+      "katakana": " キエル",
+      "romaji": "kieru"
+    },
+    {
+      "katakana": " キク",
+      "romaji": "kiku"
+    },
+    {
+      "katakana": " キタ",
+      "romaji": "kita"
+    },
+    {
+      "katakana": " ギタ ー",
+      "romaji": "gita-"
+    },
+    {
+      "katakana": " キタナイ",
+      "romaji": "kitanai"
+    },
+    {
+      "katakana": " キタナイ -キッ サ テン",
+      "romaji": "kitanai-kissaten"
+    },
+    {
+      "katakana": " キッ サ テン -キッテ",
+      "romaji": "kissaten-kitte"
+    },
+    {
+      "katakana": " キッテ",
+      "romaji": "kitte"
+    },
+    {
+      "katakana": " キップ",
+      "romaji": "kippu"
+    },
+    {
+      "katakana": " キノウ",
+      "romaji": "kinou"
+    },
+    {
+      "katakana": " キュウ",
+      "romaji": "kyuu"
+    },
+    {
+      "katakana": " ギュウニク",
+      "romaji": "gyuuniku"
+    },
+    {
+      "katakana": " キョウ",
+      "romaji": "kyou"
+    },
+    {
+      "katakana": " キョウシ ツ",
+      "romaji": "kyoushitsu"
+    },
+    {
+      "katakana": " キョウ ダイ",
+      "romaji": "kyoudai"
+    },
+    {
+      "katakana": " キ ョネン",
+      "romaji": "kyonen"
+    },
+    {
+      "katakana": " キライ - ギライ",
+      "romaji": "kirai-girai"
+    },
+    {
+      "katakana": " キル",
+      "romaji": "kiru"
+    },
+    {
+      "katakana": " キレイ",
+      "romaji": "kirei"
+    },
+    {
+      "katakana": " キロ グラム",
+      "romaji": "kiroguramu"
+    },
+    {
+      "katakana": " キロ メ ー トル",
+      "romaji": "kirome-toru"
+    },
+    {
+      "katakana": " ギン コウ",
+      "romaji": "ginkou"
+    },
+    {
+      "katakana": " キンヨウ ビ",
+      "romaji": "kin'youbi"
+    },
+    {
+      "katakana": " キンヨウ ビ -ク - コウ",
+      "romaji": "kin'youbi-ku-kou"
+    },
+    {
+      "katakana": " クスリ - ヤク",
+      "romaji": "kusuri-yaku"
+    },
+    {
+      "katakana": " クダサイ",
+      "romaji": "kudasai"
+    },
+    {
+      "katakana": " クダモノ",
+      "romaji": "kudamono"
+    },
+    {
+      "katakana": " クチ - グチ",
+      "romaji": "kuchi-guchi"
+    },
+    {
+      "katakana": " クツ",
+      "romaji": "kutsu"
+    },
+    {
+      "katakana": " クツシタ",
+      "romaji": "kutsushita"
+    },
+    {
+      "katakana": " クニ - コク",
+      "romaji": "kuni-koku"
+    },
+    {
+      "katakana": " クモル",
+      "romaji": "kumoru"
+    },
+    {
+      "katakana": " クライ",
+      "romaji": "kurai"
+    },
+    {
+      "katakana": " ~ クライ",
+      "romaji": "~kurai"
+    },
+    {
+      "katakana": " ~ グライ",
+      "romaji": "~gurai"
+    },
+    {
+      "katakana": " クラス",
+      "romaji": "kurasu"
+    },
+    {
+      "katakana": " グラム",
+      "romaji": "guramu"
+    },
+    {
+      "katakana": " クル",
+      "romaji": "kuru"
+    },
+    {
+      "katakana": " クルマ -シャ",
+      "romaji": "kuruma-sha"
+    },
+    {
+      "katakana": " クロイ",
+      "romaji": "kuroi"
+    },
+    {
+      "katakana": " ケサ",
+      "romaji": "kesa"
+    },
+    {
+      "katakana": " ケス",
+      "romaji": "kesu"
+    },
+    {
+      "katakana": " ケッコウ",
+      "romaji": "kekkou"
+    },
+    {
+      "katakana": " ケッコン",
+      "romaji": "kekkon"
+    },
+    {
+      "katakana": " ケッコン -ゲ ツヨウ ビ",
+      "romaji": "kekkon-getsuyoubi"
+    },
+    {
+      "katakana": "ゲ ツヨウ ビ -ゲンカ ン",
+      "romaji": "getsuyoubi-genkan"
+    },
+    {
+      "katakana": " ゲン カン",
+      "romaji": "genkan"
+    },
+    {
+      "katakana": " ゲンキ",
+      "romaji": "genki"
+    },
+    {
+      "katakana": " ~ コ",
+      "romaji": "~ko"
+    },
+    {
+      "katakana": " ゴ",
+      "romaji": "go"
+    },
+    {
+      "katakana": " ~ ゴ",
+      "romaji": "~go"
+    },
+    {
+      "katakana": " コウエン",
+      "romaji": "kouen"
+    },
+    {
+      "katakana": " コウ バン",
+      "romaji": "kouban"
+    },
+    {
+      "katakana": " コエ - ゴ エ",
+      "romaji": "koe-goe"
+    },
+    {
+      "katakana": " コ ー ト",
+      "romaji": "ko-to"
+    },
+    {
+      "katakana": " ココ（ シ ジ コトバ）",
+      "romaji": "koko(shijikotoba)"
+    },
+    {
+      "katakana": " ゴ ゴ",
+      "romaji": "gogo"
+    },
+    {
+      "katakana": " ココ ノ カ",
+      "romaji": "kokonoka"
+    },
+    {
+      "katakana": " キュウ ニ チ",
+      "romaji": "kyuunichi"
+    },
+    {
+      "katakana": " ココ ノ ツ",
+      "romaji": "kokonotsu"
+    },
+    {
+      "katakana": " ゴ シ ュジン",
+      "romaji": "goshujin"
+    },
+    {
+      "katakana": " ゴ ゼン",
+      "romaji": "gozen"
+    },
+    {
+      "katakana": " コタエル",
+      "romaji": "kotaeru"
+    },
+    {
+      "katakana": " コチラ",
+      "romaji": "kochira"
+    },
+    {
+      "katakana": " コッ プ",
+      "romaji": "koppu"
+    },
+    {
+      "katakana": " コトシ",
+      "romaji": "kotoshi"
+    },
+    {
+      "katakana": " コトバ",
+      "romaji": "kotoba"
+    },
+    {
+      "katakana": " コドモ",
+      "romaji": "kodomo"
+    },
+    {
+      "katakana": " コノ",
+      "romaji": "kono"
+    },
+    {
+      "katakana": " ゴハン",
+      "romaji": "gohan"
+    },
+    {
+      "katakana": " コマル",
+      "romaji": "komaru"
+    },
+    {
+      "katakana": " コレ",
+      "romaji": "kore"
+    },
+    {
+      "katakana": " ~コロ",
+      "romaji": "~koro"
+    },
+    {
+      "katakana": " ~ゴロ",
+      "romaji": "~goro"
+    },
+    {
+      "katakana": " コンゲ ツ",
+      "romaji": "kongetsu"
+    },
+    {
+      "katakana": " コン シュウ",
+      "romaji": "konshuu"
+    },
+    {
+      "katakana": " コンナ",
+      "romaji": "konna"
+    },
+    {
+      "katakana": " コン バン",
+      "romaji": "konban"
+    },
+    {
+      "katakana": " サア（ カンドウ コトバ）",
+      "romaji": "saa(kandoukotoba)"
+    },
+    {
+      "katakana": " ~ サイ",
+      "romaji": "~sai"
+    },
+    {
+      "katakana": " ~ ト シ",
+      "romaji": "~toshi"
+    },
+    {
+      "katakana": " サカナ - ギョ",
+      "romaji": "sakana-gyo"
+    },
+    {
+      "katakana": " サキ - サキ",
+      "romaji": "saki-saki"
+    },
+    {
+      "katakana": " サク",
+      "romaji": "saku"
+    },
+    {
+      "katakana": " サク ブン",
+      "romaji": "sakubun"
+    },
+    {
+      "katakana": "サス（ カサ ヲ サス）",
+      "romaji": "sasu(kasawosasu)"
+    },
+    {
+      "katakana": " ~サ ツ",
+      "romaji": "~satsu"
+    },
+    {
+      "katakana": " ザッシ",
+      "romaji": "zasshi"
+    },
+    {
+      "katakana": " サトウ",
+      "romaji": "satou"
+    },
+    {
+      "katakana": " サムイ",
+      "romaji": "samui"
+    },
+    {
+      "katakana": " サライ ネン",
+      "romaji": "sarainen"
+    },
+    {
+      "katakana": " ~ サン",
+      "romaji": "~san"
+    },
+    {
+      "katakana": " サン",
+      "romaji": "san"
+    },
+    {
+      "katakana": " サンポ",
+      "romaji": "sanpo"
+    },
+    {
+      "katakana": " サンポ -シ",
+      "romaji": "sanpo-shi"
+    },
+    {
+      "katakana": " ヨン -シ オ",
+      "romaji": "yon-shio"
+    },
+    {
+      "katakana": " シオ",
+      "romaji": "shio"
+    },
+    {
+      "katakana": " シカシ",
+      "romaji": "shikashi"
+    },
+    {
+      "katakana": " ジ カ ン",
+      "romaji": "jikan"
+    },
+    {
+      "katakana": " ~ ジ カ ン",
+      "romaji": "~jikan"
+    },
+    {
+      "katakana": " ~ ジ カ ン -シゴト",
+      "romaji": "~jikan-shigoto"
+    },
+    {
+      "katakana": " シゴト",
+      "romaji": "shigoto"
+    },
+    {
+      "katakana": " ジショ",
+      "romaji": "jisho"
+    },
+    {
+      "katakana": " シズカ",
+      "romaji": "shizuka"
+    },
+    {
+      "katakana": " シズカ -シタ - カ -シ チ",
+      "romaji": "shizuka-shita-ka-shichi"
+    },
+    {
+      "katakana": " ナ ナ -シ ツ モン",
+      "romaji": "nana-shitsumon"
+    },
+    {
+      "katakana": " シ ツ モン",
+      "romaji": "shitsumon"
+    },
+    {
+      "katakana": " ジテンシャ",
+      "romaji": "jitensha"
+    },
+    {
+      "katakana": " ジ ドウシャ",
+      "romaji": "jidousha"
+    },
+    {
+      "katakana": " ジ ドウシャ -シヌ",
+      "romaji": "jidousha-shinu"
+    },
+    {
+      "katakana": " シヌ",
+      "romaji": "shinu"
+    },
+    {
+      "katakana": " ジビキ",
+      "romaji": "jibiki"
+    },
+    {
+      "katakana": " ジ ブン",
+      "romaji": "jibun"
+    },
+    {
+      "katakana": " ジ ブン - シマル",
+      "romaji": "jibun-shimaru"
+    },
+    {
+      "katakana": " シマル",
+      "romaji": "shimaru"
+    },
+    {
+      "katakana": " シメル",
+      "romaji": "shimeru"
+    },
+    {
+      "katakana": " ジャ（ カンドウ コトバ）",
+      "romaji": "ja(kandoukotoba)"
+    },
+    {
+      "katakana": " ジャア（ カンドウ コトバ）",
+      "romaji": "jaa(kandoukotoba)"
+    },
+    {
+      "katakana": " シャシン",
+      "romaji": "shashin"
+    },
+    {
+      "katakana": " シ ャツ -ジュウ",
+      "romaji": "shatsu-juu"
+    },
+    {
+      "katakana": " ジュウ",
+      "romaji": "juu"
+    },
+    {
+      "katakana": " ~ シュウ カン",
+      "romaji": "~shuukan"
+    },
+    {
+      "katakana": " ジ ュギョウ",
+      "romaji": "jugyou"
+    },
+    {
+      "katakana": " シュク ダイ",
+      "romaji": "shukudai"
+    },
+    {
+      "katakana": " ジョウズ",
+      "romaji": "jouzu"
+    },
+    {
+      "katakana": " ジョウブ",
+      "romaji": "joubu"
+    },
+    {
+      "katakana": " ショウユ",
+      "romaji": "shouyu"
+    },
+    {
+      "katakana": " ショウユ -ショ クドウ",
+      "romaji": "shouyu-shokudou"
+    },
+    {
+      "katakana": " ショク ドウ",
+      "romaji": "shokudou"
+    },
+    {
+      "katakana": " シル",
+      "romaji": "shiru"
+    },
+    {
+      "katakana": " シロイ",
+      "romaji": "shiroi"
+    },
+    {
+      "katakana": " ~ ジン",
+      "romaji": "~jin"
+    },
+    {
+      "katakana": " シンブン",
+      "romaji": "shinbun"
+    },
+    {
+      "katakana": " スイヨウ ビ",
+      "romaji": "suiyoubi"
+    },
+    {
+      "katakana": " スウ",
+      "romaji": "suu"
+    },
+    {
+      "katakana": " スカ ー ト",
+      "romaji": "suka-to"
+    },
+    {
+      "katakana": " スキ - スキ",
+      "romaji": "suki-suki"
+    },
+    {
+      "katakana": " ~スギ",
+      "romaji": "~sugi"
+    },
+    {
+      "katakana": " スグ ニ",
+      "romaji": "suguni"
+    },
+    {
+      "katakana": " スコシ",
+      "romaji": "sukoshi"
+    },
+    {
+      "katakana": " スズシイ",
+      "romaji": "suzushii"
+    },
+    {
+      "katakana": " ~ ズツ",
+      "romaji": "~zutsu"
+    },
+    {
+      "katakana": " ス ト ー ブ",
+      "romaji": "suto-bu"
+    },
+    {
+      "katakana": " ス プ ー ン",
+      "romaji": "supu-n"
+    },
+    {
+      "katakana": " ス ポ ー ツ",
+      "romaji": "supo-tsu"
+    },
+    {
+      "katakana": "ズ ボン",
+      "romaji": "zubon"
+    },
+    {
+      "katakana": " スム",
+      "romaji": "sumu"
+    },
+    {
+      "katakana": " ス リッパ -スル",
+      "romaji": "surippa-suru"
+    },
+    {
+      "katakana": " スワル",
+      "romaji": "suwaru"
+    },
+    {
+      "katakana": " スワル -セイ",
+      "romaji": "suwaru-sei"
+    },
+    {
+      "katakana": " セ - セイ ト",
+      "romaji": "se-seito"
+    },
+    {
+      "katakana": " セイ ト",
+      "romaji": "seito"
+    },
+    {
+      "katakana": " セ ータ ー",
+      "romaji": "se-ta-"
+    },
+    {
+      "katakana": " セッケン",
+      "romaji": "sekken"
+    },
+    {
+      "katakana": " セビロ",
+      "romaji": "sebiro"
+    },
+    {
+      "katakana": " セ マイ",
+      "romaji": "semai"
+    },
+    {
+      "katakana": " ゼ ロ -セン",
+      "romaji": "zero-sen"
+    },
+    {
+      "katakana": " セン",
+      "romaji": "sen"
+    },
+    {
+      "katakana": " センゲ ツ",
+      "romaji": "sengetsu"
+    },
+    {
+      "katakana": " センシュウ",
+      "romaji": "senshuu"
+    },
+    {
+      "katakana": " センセイ",
+      "romaji": "sensei"
+    },
+    {
+      "katakana": " センセイ -センタク",
+      "romaji": "sensei-sentaku"
+    },
+    {
+      "katakana": " センタク",
+      "romaji": "sentaku"
+    },
+    {
+      "katakana": " ゼンブ",
+      "romaji": "zenbu"
+    },
+    {
+      "katakana": " ゼンブ -ソウ（ ソウ デス） -ソウ ジ",
+      "romaji": "zenbu-sou(soudesu)-souji"
+    },
+    {
+      "katakana": " ソウ ジ",
+      "romaji": "souji"
+    },
+    {
+      "katakana": " ソウシテ",
+      "romaji": "soushite"
+    },
+    {
+      "katakana": " ソシテ",
+      "romaji": "soshite"
+    },
+    {
+      "katakana": " ソコ（ シ ジ コトバ）",
+      "romaji": "soko(shijikotoba)"
+    },
+    {
+      "katakana": " ソチラ -ソ ト -ガイ",
+      "romaji": "sochira-soto-gai"
+    },
+    {
+      "katakana": " ソノ（ レン タイシ）",
+      "romaji": "sono(rentaishi)"
+    },
+    {
+      "katakana": " ソバ（ マ ドノ ソバ）",
+      "romaji": "soba(madonosoba)"
+    },
+    {
+      "katakana": " ソラ",
+      "romaji": "sora"
+    },
+    {
+      "katakana": " ソレ（ シ ジ コトバ）",
+      "romaji": "sore(shijikotoba)"
+    },
+    {
+      "katakana": " ソレカラ",
+      "romaji": "sorekara"
+    },
+    {
+      "katakana": " ソレデハ",
+      "romaji": "soredeha"
+    },
+    {
+      "katakana": " ~ ダイ",
+      "romaji": "~dai"
+    },
+    {
+      "katakana": " ダイ ガク",
+      "romaji": "daigaku"
+    },
+    {
+      "katakana": " タイ シカン",
+      "romaji": "taishikan"
+    },
+    {
+      "katakana": " ダイジョウブ",
+      "romaji": "daijoubu"
+    },
+    {
+      "katakana": " ダイ スキ",
+      "romaji": "daisuki"
+    },
+    {
+      "katakana": " タイ セツ",
+      "romaji": "taisetsu"
+    },
+    {
+      "katakana": " タイテイ",
+      "romaji": "taitei"
+    },
+    {
+      "katakana": " ダイドコロ",
+      "romaji": "daidokoro"
+    },
+    {
+      "katakana": " タイヘン",
+      "romaji": "taihen"
+    },
+    {
+      "katakana": " タカイ",
+      "romaji": "takai"
+    },
+    {
+      "katakana": " タクサン",
+      "romaji": "takusan"
+    },
+    {
+      "katakana": " タクシ ー",
+      "romaji": "takushi-"
+    },
+    {
+      "katakana": " ダス",
+      "romaji": "dasu"
+    },
+    {
+      "katakana": " ~タチ",
+      "romaji": "~tachi"
+    },
+    {
+      "katakana": " タツ",
+      "romaji": "tatsu"
+    },
+    {
+      "katakana": " タツ -タテ モ ノ",
+      "romaji": "tatsu-tatemono"
+    },
+    {
+      "katakana": " タテ モ ノ",
+      "romaji": "tatemono"
+    },
+    {
+      "katakana": " タノシイ",
+      "romaji": "tanoshii"
+    },
+    {
+      "katakana": " タノム",
+      "romaji": "tanomu"
+    },
+    {
+      "katakana": " タバコ",
+      "romaji": "tabako"
+    },
+    {
+      "katakana": " タブン",
+      "romaji": "tabun"
+    },
+    {
+      "katakana": " タベモノ",
+      "romaji": "tabemono"
+    },
+    {
+      "katakana": " タベル",
+      "romaji": "taberu"
+    },
+    {
+      "katakana": " タマ ゴ",
+      "romaji": "tamago"
+    },
+    {
+      "katakana": " ダレ",
+      "romaji": "dare"
+    },
+    {
+      "katakana": " タンジョウ ビ",
+      "romaji": "tanjoubi"
+    },
+    {
+      "katakana": " ダンダン",
+      "romaji": "dandan"
+    },
+    {
+      "katakana": " チイサイ",
+      "romaji": "chiisai"
+    },
+    {
+      "katakana": " チカイ",
+      "romaji": "chikai"
+    },
+    {
+      "katakana": " チガウ",
+      "romaji": "chigau"
+    },
+    {
+      "katakana": " チカク",
+      "romaji": "chikaku"
+    },
+    {
+      "katakana": " チカ テツ",
+      "romaji": "chikatetsu"
+    },
+    {
+      "katakana": " チズ",
+      "romaji": "chizu"
+    },
+    {
+      "katakana": " チ チ",
+      "romaji": "chichi"
+    },
+    {
+      "katakana": " チャイ ロ",
+      "romaji": "chairo"
+    },
+    {
+      "katakana": " チャワン",
+      "romaji": "chawan"
+    },
+    {
+      "katakana": " ~ チ ュウ",
+      "romaji": "~chuu"
+    },
+    {
+      "katakana": " チョウド",
+      "romaji": "choudo"
+    },
+    {
+      "katakana": " チョット",
+      "romaji": "chotto"
+    },
+    {
+      "katakana": " ツイタチ",
+      "romaji": "tsuitachi"
+    },
+    {
+      "katakana": " ツカウ",
+      "romaji": "tsukau"
+    },
+    {
+      "katakana": " ツカレル",
+      "romaji": "tsukareru"
+    },
+    {
+      "katakana": " ツギ - ジ",
+      "romaji": "tsugi-ji"
+    },
+    {
+      "katakana": " ツク",
+      "romaji": "tsuku"
+    },
+    {
+      "katakana": " ツク エ",
+      "romaji": "tsukue"
+    },
+    {
+      "katakana": " ツクル",
+      "romaji": "tsukuru"
+    },
+    {
+      "katakana": " ツケル",
+      "romaji": "tsukeru"
+    },
+    {
+      "katakana": " ツトメル",
+      "romaji": "tsutomeru"
+    },
+    {
+      "katakana": " ツマラナイ",
+      "romaji": "tsumaranai"
+    },
+    {
+      "katakana": " ツメタイ",
+      "romaji": "tsumetai"
+    },
+    {
+      "katakana": " ツヨイ",
+      "romaji": "tsuyoi"
+    },
+    {
+      "katakana": " テ -シ ュ",
+      "romaji": "te-shu"
+    },
+    {
+      "katakana": " テ ー プ",
+      "romaji": "te-pu"
+    },
+    {
+      "katakana": " テ ー プレコ ー ダ ー",
+      "romaji": "te-pureko-da-"
+    },
+    {
+      "katakana": " テ ー ブル",
+      "romaji": "te-buru"
+    },
+    {
+      "katakana": " デ カケル",
+      "romaji": "dekakeru"
+    },
+    {
+      "katakana": "テ ガ ミ",
+      "romaji": "tegami"
+    },
+    {
+      "katakana": " デキル（ エイ ゴ ガ デキル）",
+      "romaji": "dekiru(eigogadekiru)"
+    },
+    {
+      "katakana": " デ グチ",
+      "romaji": "deguchi"
+    },
+    {
+      "katakana": " テ ス ト",
+      "romaji": "tesuto"
+    },
+    {
+      "katakana": " デ ハ（ カンドウ コトバ）",
+      "romaji": "deha(kandoukotoba)"
+    },
+    {
+      "katakana": " デ パ ー ト",
+      "romaji": "depa-to"
+    },
+    {
+      "katakana": " デモ",
+      "romaji": "demo"
+    },
+    {
+      "katakana": " デル",
+      "romaji": "deru"
+    },
+    {
+      "katakana": " テレ ビ",
+      "romaji": "terebi"
+    },
+    {
+      "katakana": " テンキ",
+      "romaji": "tenki"
+    },
+    {
+      "katakana": " デン キ",
+      "romaji": "denki"
+    },
+    {
+      "katakana": " デンシャ",
+      "romaji": "densha"
+    },
+    {
+      "katakana": " デンワ",
+      "romaji": "denwa"
+    },
+    {
+      "katakana": " ト",
+      "romaji": "to"
+    },
+    {
+      "katakana": " ~ ド",
+      "romaji": "~do"
+    },
+    {
+      "katakana": " ド ア",
+      "romaji": "doa"
+    },
+    {
+      "katakana": " ト イレ",
+      "romaji": "toire"
+    },
+    {
+      "katakana": " ドウ（ フクシ）",
+      "romaji": "dou(fukushi)"
+    },
+    {
+      "katakana": " ドウシテ",
+      "romaji": "doushite"
+    },
+    {
+      "katakana": " ドウゾ",
+      "romaji": "douzo"
+    },
+    {
+      "katakana": " ドウ ブツ",
+      "romaji": "doubutsu"
+    },
+    {
+      "katakana": " ドウモ",
+      "romaji": "doumo"
+    },
+    {
+      "katakana": " ト オ",
+      "romaji": "too"
+    },
+    {
+      "katakana": " トオイ",
+      "romaji": "tooi"
+    },
+    {
+      "katakana": " トオ カ",
+      "romaji": "tooka"
+    },
+    {
+      "katakana": " ジュウ ニ チ",
+      "romaji": "juunichi"
+    },
+    {
+      "katakana": " トキドキ - ジ々",
+      "romaji": "tokidoki-ji々"
+    },
+    {
+      "katakana": " トケイ",
+      "romaji": "tokei"
+    },
+    {
+      "katakana": " ドコ",
+      "romaji": "doko"
+    },
+    {
+      "katakana": " トコロ -ショ",
+      "romaji": "tokoro-sho"
+    },
+    {
+      "katakana": " ト ショ カン",
+      "romaji": "toshokan"
+    },
+    {
+      "katakana": " ドチラ",
+      "romaji": "dochira"
+    },
+    {
+      "katakana": " トテモ",
+      "romaji": "totemo"
+    },
+    {
+      "katakana": " ドナタ",
+      "romaji": "donata"
+    },
+    {
+      "katakana": " トナリ",
+      "romaji": "tonari"
+    },
+    {
+      "katakana": " ドノ（ ドノ ヒト）",
+      "romaji": "dono(donohito)"
+    },
+    {
+      "katakana": " トブ",
+      "romaji": "tobu"
+    },
+    {
+      "katakana": " トマル",
+      "romaji": "tomaru"
+    },
+    {
+      "katakana": " トモダチ",
+      "romaji": "tomodachi"
+    },
+    {
+      "katakana": " ド ヨウ ビ",
+      "romaji": "doyoubi"
+    },
+    {
+      "katakana": " ド ヨウ ビ -トリ",
+      "romaji": "doyoubi-tori"
+    },
+    {
+      "katakana": " トリ",
+      "romaji": "tori"
+    },
+    {
+      "katakana": " トリ ニク",
+      "romaji": "toriniku"
+    },
+    {
+      "katakana": " トル",
+      "romaji": "toru"
+    },
+    {
+      "katakana": " ドレ",
+      "romaji": "dore"
+    },
+    {
+      "katakana": " ドンナ",
+      "romaji": "donna"
+    },
+    {
+      "katakana": " ナイ",
+      "romaji": "nai"
+    },
+    {
+      "katakana": " ナ イフ",
+      "romaji": "naifu"
+    },
+    {
+      "katakana": " ナカ - チ ュウ",
+      "romaji": "naka-chuu"
+    },
+    {
+      "katakana": " ナガイ",
+      "romaji": "nagai"
+    },
+    {
+      "katakana": " ナク",
+      "romaji": "naku"
+    },
+    {
+      "katakana": " ナツ",
+      "romaji": "natsu"
+    },
+    {
+      "katakana": " ナツ ヤスミ",
+      "romaji": "natsuyasumi"
+    },
+    {
+      "katakana": " ~ ナド",
+      "romaji": "~nado"
+    },
+    {
+      "katakana": " ナ ナツ",
+      "romaji": "nanatsu"
+    },
+    {
+      "katakana": " ナニ",
+      "romaji": "nani"
+    },
+    {
+      "katakana": " ナン",
+      "romaji": "nan"
+    },
+    {
+      "katakana": " ナ ノ カ",
+      "romaji": "nanoka"
+    },
+    {
+      "katakana": " ナ ナニ チ",
+      "romaji": "nananichi"
+    },
+    {
+      "katakana": " ナマ エ",
+      "romaji": "namae"
+    },
+    {
+      "katakana": " ナラウ",
+      "romaji": "narau"
+    },
+    {
+      "katakana": " ナラブ",
+      "romaji": "narabu"
+    },
+    {
+      "katakana": " ナラベル",
+      "romaji": "naraberu"
+    },
+    {
+      "katakana": " ナル",
+      "romaji": "naru"
+    },
+    {
+      "katakana": " ニ",
+      "romaji": "ni"
+    },
+    {
+      "katakana": " ニギヤカ",
+      "romaji": "nigiyaka"
+    },
+    {
+      "katakana": " ニク",
+      "romaji": "niku"
+    },
+    {
+      "katakana": " ニ シ",
+      "romaji": "nishi"
+    },
+    {
+      "katakana": " ~ ニ チ",
+      "romaji": "~nichi"
+    },
+    {
+      "katakana": " ~ ビ",
+      "romaji": "~bi"
+    },
+    {
+      "katakana": " ニ チ ヨウ ビ",
+      "romaji": "nichiyoubi"
+    },
+    {
+      "katakana": " ニ モツ",
+      "romaji": "nimotsu"
+    },
+    {
+      "katakana": " ニュース",
+      "romaji": "nyu-su"
+    },
+    {
+      "katakana": " ニ ワ",
+      "romaji": "niwa"
+    },
+    {
+      "katakana": " ~ ニ ン",
+      "romaji": "~nin"
+    },
+    {
+      "katakana": " ヌグ",
+      "romaji": "nugu"
+    },
+    {
+      "katakana": " ネクタイ",
+      "romaji": "nekutai"
+    },
+    {
+      "katakana": " ネル",
+      "romaji": "neru"
+    },
+    {
+      "katakana": " ~ ネン",
+      "romaji": "~nen"
+    },
+    {
+      "katakana": " ノ ー ト",
+      "romaji": "no-to"
+    },
+    {
+      "katakana": " ノボル",
+      "romaji": "noboru"
+    },
+    {
+      "katakana": " ノミ モ ノ",
+      "romaji": "nomimono"
+    },
+    {
+      "katakana": " ノム",
+      "romaji": "nomu"
+    },
+    {
+      "katakana": " ノル",
+      "romaji": "noru"
+    },
+    {
+      "katakana": " ~ マイ",
+      "romaji": "~mai"
+    },
+    {
+      "katakana": " マイア サ",
+      "romaji": "maiasa"
+    },
+    {
+      "katakana": " マイゲ ツ",
+      "romaji": "maigetsu"
+    },
+    {
+      "katakana": " マイツキ",
+      "romaji": "maitsuki"
+    },
+    {
+      "katakana": " マ イシュウ",
+      "romaji": "maishuu"
+    },
+    {
+      "katakana": " マイ ニ チ",
+      "romaji": "mainichi"
+    },
+    {
+      "katakana": " マイ ネン",
+      "romaji": "mainen"
+    },
+    {
+      "katakana": " マイ ト シ",
+      "romaji": "maitoshi"
+    },
+    {
+      "katakana": " マイ バン",
+      "romaji": "maiban"
+    },
+    {
+      "katakana": " マエ",
+      "romaji": "mae"
+    },
+    {
+      "katakana": " ゼン",
+      "romaji": "zen"
+    },
+    {
+      "katakana": " ~ マエ",
+      "romaji": "~mae"
+    },
+    {
+      "katakana": " ~ ゼン",
+      "romaji": "~zen"
+    },
+    {
+      "katakana": " マガル",
+      "romaji": "magaru"
+    },
+    {
+      "katakana": " マズイ",
+      "romaji": "mazui"
+    },
+    {
+      "katakana": " マタ",
+      "romaji": "mata"
+    },
+    {
+      "katakana": " マダ",
+      "romaji": "mada"
+    },
+    {
+      "katakana": " マチ - マチ",
+      "romaji": "machi-machi"
+    },
+    {
+      "katakana": " マツ",
+      "romaji": "matsu"
+    },
+    {
+      "katakana": " マッスグ",
+      "romaji": "massugu"
+    },
+    {
+      "katakana": " マッ チ",
+      "romaji": "matchi"
+    },
+    {
+      "katakana": " マ ド",
+      "romaji": "mado"
+    },
+    {
+      "katakana": " マルイ",
+      "romaji": "marui"
+    },
+    {
+      "katakana": " マ ン",
+      "romaji": "man"
+    },
+    {
+      "katakana": " マン ネン ヒツ",
+      "romaji": "mannenhitsu"
+    },
+    {
+      "katakana": " ミガク",
+      "romaji": "migaku"
+    },
+    {
+      "katakana": " ミギ",
+      "romaji": "migi"
+    },
+    {
+      "katakana": " ミジカイ",
+      "romaji": "mijikai"
+    },
+    {
+      "katakana": " ミジカイ -ミズ - スイ",
+      "romaji": "mijikai-mizu-sui"
+    },
+    {
+      "katakana": " ミセ - テン",
+      "romaji": "mise-ten"
+    },
+    {
+      "katakana": " ミセル",
+      "romaji": "miseru"
+    },
+    {
+      "katakana": " ミセル -ミチ - ドウ",
+      "romaji": "miseru-michi-dou"
+    },
+    {
+      "katakana": " ミッ カ",
+      "romaji": "mikka"
+    },
+    {
+      "katakana": " サン ニ チ",
+      "romaji": "sannichi"
+    },
+    {
+      "katakana": " ミッ ツ",
+      "romaji": "mittsu"
+    },
+    {
+      "katakana": " ミナサン",
+      "romaji": "minasan"
+    },
+    {
+      "katakana": " ミナミ",
+      "romaji": "minami"
+    },
+    {
+      "katakana": " ミミ",
+      "romaji": "mimi"
+    },
+    {
+      "katakana": " ミル",
+      "romaji": "miru"
+    },
+    {
+      "katakana": " ミンナ",
+      "romaji": "minna"
+    },
+    {
+      "katakana": " ムイ カ",
+      "romaji": "muika"
+    },
+    {
+      "katakana": " ロクニ チ",
+      "romaji": "rokunichi"
+    },
+    {
+      "katakana": " ムコウ",
+      "romaji": "mukou"
+    },
+    {
+      "katakana": " ムズカシイ",
+      "romaji": "muzukashii"
+    },
+    {
+      "katakana": " ムッツ",
+      "romaji": "muttsu"
+    },
+    {
+      "katakana": " ムッツ -メ -メ",
+      "romaji": "muttsu-me-me"
+    },
+    {
+      "katakana": " メ ー トル",
+      "romaji": "me-toru"
+    },
+    {
+      "katakana": " メガネ",
+      "romaji": "megane"
+    },
+    {
+      "katakana": " カエリマシタ",
+      "romaji": "kaerimashita"
+    },
+    {
+      "katakana": " モウ（ モウ イチド）",
+      "romaji": "mou(mouichido)"
+    },
+    {
+      "katakana": " モ ク ヨウ ビ",
+      "romaji": "mokuyoubi"
+    },
+    {
+      "katakana": " モシモシ",
+      "romaji": "moshimoshi"
+    },
+    {
+      "katakana": " モチロン",
+      "romaji": "mochiron"
+    },
+    {
+      "katakana": " モツ",
+      "romaji": "motsu"
+    },
+    {
+      "katakana": " モット",
+      "romaji": "motto"
+    },
+    {
+      "katakana": " モノ - ブツ",
+      "romaji": "mono-butsu"
+    },
+    {
+      "katakana": " モン - モン",
+      "romaji": "mon-mon"
+    },
+    {
+      "katakana": " モン ダイ",
+      "romaji": "mondai"
+    },
+    {
+      "katakana": " ~ ヤ",
+      "romaji": "~ya"
+    },
+    {
+      "katakana": " ヤオヤ",
+      "romaji": "yaoya"
+    },
+    {
+      "katakana": " ヤサイ",
+      "romaji": "yasai"
+    },
+    {
+      "katakana": " ヤサシイ",
+      "romaji": "yasashii"
+    },
+    {
+      "katakana": " ヤスイ",
+      "romaji": "yasui"
+    },
+    {
+      "katakana": " ヤスミ",
+      "romaji": "yasumi"
+    },
+    {
+      "katakana": " ヤスム",
+      "romaji": "yasumu"
+    },
+    {
+      "katakana": " ヤッ ツ",
+      "romaji": "yattsu"
+    },
+    {
+      "katakana": " ヤ マ - サン",
+      "romaji": "yama-san"
+    },
+    {
+      "katakana": " ヤル（ シゴト ヲ ヤル）",
+      "romaji": "yaru(shigotowoyaru)"
+    },
+    {
+      "katakana": " ユウ ガタ",
+      "romaji": "yuugata"
+    },
+    {
+      "katakana": " ユウ ビン キョク",
+      "romaji": "yuubinkyoku"
+    },
+    {
+      "katakana": " ユウベ（’ サク バン’ ノ イ）",
+      "romaji": "yuube(’sakuban’noi)"
+    },
+    {
+      "katakana": " ユウ メイ",
+      "romaji": "yuumei"
+    },
+    {
+      "katakana": " ユキ",
+      "romaji": "yuki"
+    },
+    {
+      "katakana": " ユックリ -ヨウ カ",
+      "romaji": "yukkuri-youka"
+    },
+    {
+      "katakana": " ハ チ ニ チ -ヨウ フク",
+      "romaji": "hachinichi-youfuku"
+    },
+    {
+      "katakana": "ヨウ フク",
+      "romaji": "youfuku"
+    },
+    {
+      "katakana": " ヨク（ ヨク イク）",
+      "romaji": "yoku(yokuiku)"
+    },
+    {
+      "katakana": " ヨク（ ヨク デキル）",
+      "romaji": "yoku(yokudekiru)"
+    },
+    {
+      "katakana": " ヨ コ",
+      "romaji": "yoko"
+    },
+    {
+      "katakana": " ヨッ カ",
+      "romaji": "yokka"
+    },
+    {
+      "katakana": " ヨン ニ チ",
+      "romaji": "yonnichi"
+    },
+    {
+      "katakana": " ヨッ ツ",
+      "romaji": "yottsu"
+    },
+    {
+      "katakana": " ヨブ",
+      "romaji": "yobu"
+    },
+    {
+      "katakana": " ヨム",
+      "romaji": "yomu"
+    },
+    {
+      "katakana": " ヨル",
+      "romaji": "yoru"
+    },
+    {
+      "katakana": " ライゲ ツ",
+      "romaji": "raigetsu"
+    },
+    {
+      "katakana": " ライゲ ツ -ラ イシュウ",
+      "romaji": "raigetsu-raishuu"
+    },
+    {
+      "katakana": " ライ シュウ",
+      "romaji": "raishuu"
+    },
+    {
+      "katakana": " ライ ネン",
+      "romaji": "rainen"
+    },
+    {
+      "katakana": "ラ ジ オ",
+      "romaji": "rajio"
+    },
+    {
+      "katakana": " リッパ",
+      "romaji": "rippa"
+    },
+    {
+      "katakana": " リュウ ガ クセ イ",
+      "romaji": "ryuugakusei"
+    },
+    {
+      "katakana": " リョウシン",
+      "romaji": "ryoushin"
+    },
+    {
+      "katakana": " リョウリ",
+      "romaji": "ryouri"
+    },
+    {
+      "katakana": " リ ョコウ",
+      "romaji": "ryokou"
+    },
+    {
+      "katakana": " レイ",
+      "romaji": "rei"
+    },
+    {
+      "katakana": " レイ ゾ ウコ",
+      "romaji": "reizouko"
+    },
+    {
+      "katakana": " レコ ー ド",
+      "romaji": "reko-do"
+    },
+    {
+      "katakana": "レス トラン",
+      "romaji": "resutoran"
+    },
+    {
+      "katakana": " レン シュウ",
+      "romaji": "renshuu"
+    },
+    {
+      "katakana": " ロク",
+      "romaji": "roku"
+    },
+    {
+      "katakana": " ワイシャ ツ",
+      "romaji": "waishatsu"
+    },
+    {
+      "katakana": " ワカイ",
+      "romaji": "wakai"
+    },
+    {
+      "katakana": " ワカル",
+      "romaji": "wakaru"
+    },
+    {
+      "katakana": " ワスレル",
+      "romaji": "wasureru"
+    },
+    {
+      "katakana": " ワタクシ",
+      "romaji": "watakushi"
+    },
+    {
+      "katakana": " ワタシ",
+      "romaji": "watashi"
+    },
+    {
+      "katakana": " ワタス",
+      "romaji": "watasu"
+    },
+    {
+      "katakana": " ワタル",
+      "romaji": "wataru"
+    },
+    {
+      "katakana": " ワルイ\n",
+      "romaji": "warui"
+    }
+  ]
+}
+
