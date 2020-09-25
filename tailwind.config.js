@@ -3,7 +3,7 @@ module.exports = {
     // removeDeprecatedGapUtilities: true,
     // purgeLayersByDefault: true,
   },
-  purge: ["./src/**/*.svelte"],
+  purge: [],
   theme: {
     extend: {
       fontSize: {

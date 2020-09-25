@@ -3,6 +3,8 @@ import autoPreprocess from "svelte-preprocess"
 import postcssImport from "postcss-import"
 import tailwindcss from "tailwindcss"
 import json from "@rollup/plugin-json"
+import cssnano from "cssnano"
+import purgecss from "@fullhuman/postcss-purgecss"
 
 const production = !process.env.ROLLUP_WATCH
 
@@ -19,7 +21,12 @@ export const config = {
     svelte.preprocess = [
       autoPreprocess({
         postcss: {
-          plugins: [postcssImport(), tailwindcss("./tailwind.config.js")],
+          plugins: [
+            postcssImport(),
+            tailwindcss("./tailwind.config.js"),
+            cssnano(),
+            purgecss(),
+          ],
         },
         defaults: { style: "postcss" },
       }),
