@@ -9,18 +9,22 @@
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
 
+/* purgecss ignore */
 .mplus {
   font-family: "M PLUS Rounded 1c", sans-serif;
 }
 
+/* purgecss ignore */
 .mplus-normal {
   font-family: "M PLUS 1p", sans-serif;
 }
 
+/* purgecss ignore */
 .noto-sans {
   font-family: "Noto Sans JP", sans-serif;
 }
 
+/* purgecss ignore */
 .noto-serif {
   font-family: "Noto Serif JP", serif;
 }

@@ -17,7 +17,7 @@
         isVisible.update(status => !status)
       }}
       txt="Hiragana"
-      styles="py-4 px-8 montserrat font-semibold hover:bg-black bg-gray-900 text-white hover:move-up" />
+      styles="py-4 px-8 mplus font-semibold hover:bg-black bg-gray-900 text-white hover:move-up" />
     <Button
       onclick={() => {
         modalTitle = 'Katakana Settings'
@@ -25,7 +25,7 @@
         isVisible.update(status => !status)
       }}
       txt="Katakana"
-      styles="py-4 px-8 montserrat font-semibold hover:bg-black bg-gray-900 text-white hover:move-up" />
+      styles="py-4 px-8 mplus font-semibold hover:bg-black bg-gray-900 text-white hover:move-up" />
   </div>
 </div>
 <Footer />

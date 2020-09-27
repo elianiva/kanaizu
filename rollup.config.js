@@ -26,6 +26,7 @@ export const config = {
             tailwindcss("./tailwind.config.js"),
             purgecss({
               content: ["./src/**/*.svelte"],
+              whitelist: ["mplus", "noto-sans", "noto-serif", "mplus-normal"],
             }),
             cssnano(),
           ],

@@ -2,7 +2,7 @@
 <Counter
   type="completion"
   value={[$counter, $selected.limit === '' ? 40 : $selected.limit]} />
-<div class="flex flex-col h-screen justify-center items-center bg-gray-100">
+<div class="flex flex-col h-screen justify-center items-center bg-gray-100 mplus">
   <h1 class="text-8xl {$selected.font}">{katakana}</h1>
   <span class="block text-6xl h-32">{input ? input : ''}</span>
   <input
