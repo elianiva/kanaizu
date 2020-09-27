@@ -1,6 +1,6 @@
 <div
   class="fixed top-0 left-0 right-0 bottom-0 bg-black z-10 bg-opacity-90 flex
-    items-center justify-center"
+    items-center justify-center mplus"
   transition:fade={{ duration: 250 }}>
   <div
     class="flex flex-col align-center relative p-8 bg-white rounded-md z-20"
@@ -9,7 +9,6 @@
     <form
       class="flex flex-col gap-4 text-gray-800"
       on:submit|preventDefault={() => null}>
-      <Option data={data.auto} name="auto" type="checkbox" />
       <Option data={data.limit} name="limit" type="input" />
       <Option data={data.time} name="time" />
       <Option data={data.font} name="font" />

@@ -8,11 +8,6 @@
       max={data.max}
       bind:value={$selected[name]}
       placeholder={data.placeholder} />
-  {:else if type === 'checkbox'}
-    <input
-      class="w-4 h-4 bg-white rounded-md shadow-md text-lg"
-      type="checkbox"
-      bind:value={$selected[name]} />
   {:else}
     <select
       class="py-2 px-4 bg-white rounded-md shadow-md text-lg"
