@@ -6,6 +6,11 @@ I got the name **Kanaizu** by combining **Kana** and **Quiz**. Yeah, it might so
 
 > This app is not responsive because I only intend to use this on desktop, typing on a phone is such a pain. Therefore it is pointless for me to make it responsive.
 
+## Preview
+![Preview](static/cover.png)
+
+The site is available [here](https://kanaizu.vercel.app)
+
 ## Build
 To build this app, run this command
 
